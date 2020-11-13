@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: I8Mh0dEJxBNsdZQka4RJug
+! Checksum: AtP1FwIe5ae7AJtM1JYw0Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Oct 2020 12:11:38 -0400
+! Last Modified: Fri, 13 Nov 2020 09:48:07 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5568,6 +5568,7 @@ paper.li
 paperb.us
 .paradisehill.cc
 .paradisepoker.com
+||parler.com
 ||parsevideo.com
 .partycasino.com
 .partypoker.com
