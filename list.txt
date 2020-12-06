@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 599k2oDsYa2ToeyxPhx9zw
+! Checksum: xQvv0Q615iKQW3/VB00oYg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 18 Nov 2020 19:49:59 -0500
+! Last Modified: Sun, 06 Dec 2020 10:43:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4465,7 +4465,7 @@ website.informer.com
 .inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
-|http://blog.inoreader.com
+||inoreader.com
 .inote.tw
 .insecam.org
 |http://insecam.org
