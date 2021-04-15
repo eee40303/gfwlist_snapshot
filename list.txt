@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: VO5fzl9iXmx4WLizGWN+pA
+! Checksum: RzXzRGojUfeCacz8px/6dw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 15 Apr 2021 11:42:21 -0400
+! Last Modified: Thu, 15 Apr 2021 11:46:40 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5336,6 +5336,7 @@ newstarnet.com
 .newtaiwan.com.tw
 newtalk.tw
 ||newtalk.tw
+||newyorker.com
 newyorktimes.com
 ||nexon.com
 .next11.co.jp
@@ -6620,6 +6621,7 @@ teensinasia.com
 ||tenzinpalmo.com
 .tew.org
 .thaicn.com
+||theatlantic.com
 ||theatrum-belli.com
 theblemish.com
 ||thebcomplex.com
