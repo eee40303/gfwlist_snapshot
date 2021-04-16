@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6i5a+ynfkjsMU9uovDHntQ
+! Checksum: 3rtRARC1SbQ9/Q9EXiHM+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:23:15 -0400
+! Last Modified: Fri, 16 Apr 2021 12:31:26 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1660,7 +1660,7 @@ cn.nytstyle.com
 ||kinmen.org.tw
 
 !!---V2EX---
-.v2ex.com
+!--.v2ex.com
 !--Included in above rule: dns.v2ex.com
 @@|http://v2ex.com
 @@|http://cdn.v2ex.com
@@ -7266,6 +7266,7 @@ uygur.org
 ||v2fly.org
 .v2ray.com
 ||v2ray.com
+||v2raytech.com
 .van001.com
 .van698.com
 .vanemu.cn
@@ -7623,6 +7624,7 @@ winwhispers.info
 ||wionews.com
 ||wiredbytes.com
 ||wiredpen.com
+||wireguard.com
 !--||wireshark.org
 .wisdompubs.org
 .wisevid.com
