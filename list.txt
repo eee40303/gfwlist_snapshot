@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uMNqURHlaPoUPfHRGyvVaQ
+! Checksum: DsbgJdMQCPeKHX3zDm6Hkw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:05:39 -0400
+! Last Modified: Fri, 16 Apr 2021 12:09:36 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2132,6 +2132,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||b-ok.cc
 forum.baby-kingdom.com
 babynet.com.hk
 backchina.com
@@ -3274,6 +3275,7 @@ eyevio.jp
 
 ||faiththedog.info
 .fakku.net
+||fallenark.com
 .falsefire.com
 ||falsefire.com
 falun-co.org
@@ -7775,6 +7777,8 @@ xvideo.cc
 ||xvideos.com
 ||xvideos-cdn.com
 ||xvideos.es
+||xvbelink.com
+||xvinlink.com
 .xkiwi.tk/
 .xxbbx.com
 .xxlmovies.com
