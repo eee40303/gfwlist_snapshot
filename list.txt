@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: khfNYZvMOyBKI90/TgmYdw
+! Checksum: fed5oSebAigdMOEU/Pnwwg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 15 Apr 2021 11:51:59 -0400
+! Last Modified: Fri, 16 Apr 2021 11:30:59 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4830,6 +4830,7 @@ leisurecafe.ca
 ||lematin.ch
 .lemonde.fr
 ||lenwhite.com
+||leorockwell.com
 lerosua.org
 ||lerosua.org
 blog.lester850.info
@@ -5298,6 +5299,7 @@ nccwatch.org.tw
 .ndr.de
 .ned.org
 ||nekoslovakia.net
+||neowin.net
 ||nepusoku.com
 ||net-fits.pro
 !--bbsnew.netbig.com
