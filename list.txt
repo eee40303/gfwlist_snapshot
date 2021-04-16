@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: pT/m223KIToRnFyfSmQdVw
+! Checksum: x9iFMP5KLtZDuuOv+mrRCQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:12:46 -0400
+! Last Modified: Fri, 16 Apr 2021 12:16:09 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2040,6 +2040,7 @@ apkpure.com
 ||apkpure.com
 .aplusvpn.com
 !--||appannie.com
+||appbrain.com
 .appdownloader.net/Android
 .appledaily.com
 ||appledaily.com
@@ -5055,6 +5056,7 @@ merit-times.com.tw
 meshrep.com
 .mesotw.com/bbs
 metacafe.com/watch
+||metafilter.com
 ||meteorshowersonline.com
 |http://www.metro.taipei/
 .metrohk.com.hk/?cmd=detail&categoryID=2
@@ -7445,6 +7447,7 @@ want-daily.com
 wapedia.mobi/zhsimp
 ||waselpro.com
 .watchinese.com
+||watchout.tw
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
