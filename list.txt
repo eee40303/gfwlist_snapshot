@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Vwl9+HP3rUJsD+0M6iZzaA
+! Checksum: 9DAmNghw0OUqXZB7B8T/+g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:57:22 -0400
+! Last Modified: Fri, 16 Apr 2021 13:08:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6059,6 +6059,7 @@ riku.me/
 |http://rthk.org.hk
 .rti.org.tw
 ||rti.org.tw
+||rti.tw
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
@@ -6817,6 +6818,7 @@ tibettimes.net
 !--.time.com/time/specials/packages/article/0,28804
 !--.time.com/time/magazine
 .timsah.com
+||timtales.com
 ||blog.tiney.com
 tintuc101.com
 .tiny.cc
@@ -7811,6 +7813,7 @@ xyy69.info
 ||yakbutterblues.com
 ||yam.com
 ||yam.org.tw
+||yande.re
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
