@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 3rtRARC1SbQ9/Q9EXiHM+A
+! Checksum: A2SC71iolDkfSwW7p1XGnQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:31:26 -0400
+! Last Modified: Fri, 16 Apr 2021 12:48:04 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -219,6 +219,7 @@ share.dmhy.org
 ||login.target.com
 !--@@||intl.target.com
 ||rcam.target.com
+||technews.tw
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -5504,6 +5505,7 @@ showbiz.omy.sg
 ||onion.city
 .onlinecha.com
 ||onlineyoutube.com
+||onlygayvideo.com
 .onlytweets.com
 |http://onlytweets.com
 onmoon.net
