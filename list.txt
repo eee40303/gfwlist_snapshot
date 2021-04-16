@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: x9iFMP5KLtZDuuOv+mrRCQ
+! Checksum: LwiMk20RpcmNoMSG2SizMg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:16:09 -0400
+! Last Modified: Fri, 16 Apr 2021 12:20:22 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2820,7 +2820,9 @@ csdparty.com
 .ctfriend.net
 .ctitv.com.tw
 ||ctowc.org
-cts.com.tw
+.cts.com.tw
+||cts.com.tw
+||ctwant.com
 |http://library.usc.cuhk.edu.hk/
 |http://mjlsh.usc.cuhk.edu.hk/
 .cuhkacs.org/~benng
@@ -3793,6 +3795,7 @@ greatzhonghua.org
 .greenvpn.org
 ||grotty-monday.com
 gs-discuss.com
+||gsearch.media
 ||gtricks.com
 guancha.org
 guaneryu.com
