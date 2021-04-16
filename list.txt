@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LwiMk20RpcmNoMSG2SizMg
+! Checksum: 6i5a+ynfkjsMU9uovDHntQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 12:20:22 -0400
+! Last Modified: Fri, 16 Apr 2021 12:23:15 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4883,6 +4883,7 @@ linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lipuman.com
 ||liquidvpn.com
 ||greatfire.us7.list-manage.com
+||listennotes.com
 ||listentoyoutube.com
 listorious.com
 .liu-xiaobo.org
