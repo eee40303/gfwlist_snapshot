@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nTY+3862g6MVOsdzxSJupQ
+! Checksum: FFhyoyUUCkToIA2NLKkj7g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 11:39:55 -0400
+! Last Modified: Fri, 16 Apr 2021 11:49:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3572,6 +3572,7 @@ fzlm.com
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
+||gab.com
 ||gabocorp.com
 .gaeproxy.com
 .gaforum.org
@@ -5038,6 +5039,7 @@ meirixiaochao.com
 memorybbs.com
 .memri.org
 .memrijttm.org
+||mercdn.net
 .mercyprophet.org
 |http://mercyprophet.org
 ||mergersandinquisitions.org
@@ -6023,7 +6025,9 @@ riku.me/
 !--||rocmp.org
 ||rojo.com
 ||ronjoneswriter.com
+||rolfoundation.org
 ||rolia.net
+||rolsociety.org
 .roodo.com
 .rosechina.net
 .rotten.com
