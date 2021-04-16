@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fed5oSebAigdMOEU/Pnwwg
+! Checksum: nTY+3862g6MVOsdzxSJupQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 11:30:59 -0400
+! Last Modified: Fri, 16 Apr 2021 11:39:55 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2941,8 +2941,8 @@ delicious.com/GFWbookmark
 ||dessci.com
 .destroy-china.jp
 ||deutsche-welle.de
-!--||deviantart.com
-!--||deviantart.net
+||deviantart.com
+||deviantart.net
 ||devio.us
 ||devpn.com
 ||dfas.mil
@@ -4329,7 +4329,6 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
-humanrightsbriefing.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -5058,6 +5057,7 @@ metacafe.com/watch
 ||metrolife.ca
 .metroradio.com.hk
 |http://metroradio.com.hk
+||mewe.com
 meyou.jp
 .meyul.com
 ||mgoon.com
@@ -7251,6 +7251,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||v2fly.org
 .v2ray.com
 ||v2ray.com
 .van001.com
