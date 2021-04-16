@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FFhyoyUUCkToIA2NLKkj7g
+! Checksum: xa/xTTJs7+PcBmrmc2S10Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 11:49:07 -0400
+! Last Modified: Fri, 16 Apr 2021 11:57:01 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2560,7 +2560,7 @@ cdpwu.org
 ||changp.com
 .changsa.net
 |http://changsa.net
-.channel8news.sg/news8
+||channelnewsasia.com
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
@@ -7773,6 +7773,7 @@ xuchao.net
 xvideo.cc
 .xvideos.com
 ||xvideos.com
+||xvideos-cdn.com
 ||xvideos.es
 .xkiwi.tk/
 .xxbbx.com
