@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: d+Ef7FtKyFBktescF+Sn2Q
+! Checksum: QVYtN7gfcbxOkm7l5exzaw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:28:11 -0400
+! Last Modified: Sun, 18 Apr 2021 21:34:41 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3027,6 +3027,7 @@ dongtaiwang.com
 ||douhokanko.net
 ||doujincafe.com
 dowei.org
+|https://bartender.dowjones.com
 dphk.org
 dpp.org.tw
 ||dpp.org.tw
@@ -3742,6 +3743,7 @@ godsdirectcontact.co.uk
 .godsdirectcontact.org
 godsdirectcontact.org.tw
 .godsimmediatecontact.com
+||gofundme.com
 .gogotunnel.com
 ||gohappy.com.tw
 .gokbayrak.com
@@ -4475,6 +4477,7 @@ in-disguise.com
 .incloak.com
 ||incloak.com
 ||incredibox.fr
+||independent.co.uk
 ||indiandefensenews.in
 timesofindia.indiatimes.com/dalai
 timesofindia.indiatimes.com/defaultinterstitial.cms
@@ -5471,6 +5474,7 @@ nuzcom.com
 .nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
+||nypost.com
 !--nysingtao.com
 .nzchinese.com
 ||nzchinese.net.nz
@@ -6662,6 +6666,7 @@ theblemish.com
 ||thebobs.com
 .thechinabeat.org
 |http://www.thechinastory.org/yearbooks/yearbook-2012/
+||theconversation.com
 .thedalailamamovie.com
 |http://thedalailamamovie.com
 ||thedw.us
