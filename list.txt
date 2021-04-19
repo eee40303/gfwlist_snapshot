@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: WooTmUyKAvPPd67kDz3bTA
+! Checksum: XKec+TSPV/DoJ8YEGDLa6A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 09:12:05 -0400
+! Last Modified: Mon, 19 Apr 2021 19:12:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1875,6 +1875,7 @@ abclite.net
 ||acevpn.com
 .acg18.me
 |http://acg18.me
+||acgbox.org
 ||acgkj.com
 ||acgnx.se
 .acmedia365.com
@@ -3326,6 +3327,7 @@ faluninfo.net
 .falunpilipinas.net
 ||falunworld.net
 familyfed.org
+||auntology.fandom.com
 .fangeming.com
 ||fanglizhi.info
 ||fangong.org
@@ -4245,6 +4247,7 @@ hkci.org.hk
 ||hkctu.org.hk
 hkday.net
 .hkdailynews.com.hk/china.php
+||hkdc.us
 hkdf.org
 .hkej.com
 .hkepc.com/forum/viewthread.php?tid=1153322
@@ -4991,6 +4994,7 @@ lvhai.org
 ||lvv2.com
 .lyfhk.net
 |http://lyfhk.net
+||lzjscript.com
 .lzmtnews.org
 ||lzmtnews.org
 
@@ -6011,6 +6015,7 @@ rcinet.ca
 ||recoveryversion.com.tw
 ||red-lang.org
 redballoonsolidarity.org
+||redbubble.com
 .redchinacn.net
 |http://redchinacn.net
 redchinacn.org
@@ -6273,6 +6278,7 @@ ch.shvoong.com
 .siddharthasintent.org
 ||sidelinesnews.com
 .sidelinessportseatery.com
+||signal.org
 .sijihuisuo.club
 .sijihuisuo.com
 .silkbook.com
