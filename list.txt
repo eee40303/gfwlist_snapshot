@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Qj9MB/my81dB1sTPFJnTUg
+! Checksum: s/0FZ8IU05UvnFYpaDKIiQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:09:43 -0400
+! Last Modified: Sun, 18 Apr 2021 21:13:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -33,7 +33,6 @@
 ||azubu.tv
 ||bankmobilevibe.com
 ||banorte.com
-||bash-hackers.org
 ||beeg.com
 ||global.bing.com
 ||bloombergview.com
@@ -51,6 +50,7 @@
 ||counter.social
 ||costco.com
 ||crossfire.co.kr
+||crunchyroll.com
 ||d2pass.com
 ||darpa.mil
 ||dawangidc.com
@@ -7277,6 +7277,7 @@ uygur.org
 ||v2fly.org
 .v2ray.com
 ||v2ray.com
+||v2raycn.com
 ||v2raytech.com
 .van001.com
 .van698.com
