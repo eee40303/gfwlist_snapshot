@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nQ1Ds+8SCiXtbMYQ4/KDoA
+! Checksum: 1jpakIezyKJnuEywy4AySA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 19:22:58 -0400
+! Last Modified: Mon, 19 Apr 2021 19:29:03 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -458,6 +458,7 @@ share.dmhy.org
 ||dragonex.io
 ||ebtcbank.com
 ||etherdelta.com
+||etherscan.io
 ||exmo.com
 ||exrates.me
 ||exx.com
@@ -6486,6 +6487,7 @@ usinfo.state.gov
 .startuplivingchina.com
 |http://startuplivingchina.com
 ||static-economist.com
+||stboy.net
 ||stc.com.sa
 ||steel-storm.com
 .steganos.com
