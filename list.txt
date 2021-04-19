@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DKz03zflYgu96VfnegwvCw
+! Checksum: u+3qaC3wzIMppd06ceAMTQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 22:11:26 -0400
+! Last Modified: Sun, 18 Apr 2021 22:29:25 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2509,6 +2509,7 @@ catholic.org.tw
 ||cbc.ca
 .cbsnews.com/video
 .cbtc.org.hk
+||southpark.cc.com
 !-.ccc.de
 !-||ccc.de
 ||cccat.cc
@@ -2808,6 +2809,7 @@ crackle.com
 ||crackle.com
 .crazys.cc
 .crazyshit.com
+||crazyshit.com
 ||crchina.org
 crd-net.org
 creaders.net
@@ -2845,9 +2847,11 @@ csdparty.com
 .cumlouder.com
 ||cumlouder.com
 ||curvefish.com
+||cusp.hk
 .cusu.hk
 ||cusu.hk
 .cutscenes.net
+||cutscenes.net
 .cw.com.tw
 ||cw.com.tw
 |http://forum.cyberctm.com
@@ -3785,6 +3789,7 @@ blog.goo.ne.jp/duck-tail_2009
 .gopetition.com
 ||gopetition.com
 .goproxing.net
+||goreforum.com
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
@@ -4247,6 +4252,7 @@ hkfront.org
 m.hkgalden.com
 |https://m.hkgalden.com
 .hkgreenradio.org/home
+||hkgpao.com
 .hkheadline.com*blog
 .hkheadline.com/instantnews
 hkhkhk.com
