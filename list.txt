@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: u+3qaC3wzIMppd06ceAMTQ
+! Checksum: ooCg0xpP1QiexIkQ6r9wAA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 22:29:25 -0400
+! Last Modified: Mon, 19 Apr 2021 09:07:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2734,7 +2734,7 @@ clinica-tibet.ru
 .clipfish.de
 cloakpoint.com
 ||club1069.com
-||joinclubhouse.com
+||clubhouseapi.com
 cmi.org.tw
 |http://www.cmoinc.org
 cmp.hku.hk
