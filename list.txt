@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tZLf9D5vNKbSTyqcckLQNg
+! Checksum: 2W87hA5hwuKI6iPuybjLDQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:49:42 -0400
+! Last Modified: Sun, 18 Apr 2021 21:59:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1844,6 +1844,7 @@ taiwannation.50webs.com
 |http://99cn.info
 ||9bis.com
 ||9bis.net
+||9news.com.au
 
 !--------------------AA-------------------------
 .tibet.a.se
@@ -2359,6 +2360,7 @@ boyangu.com
 .brainyquote.com/quotes/authors/d/dalai_lama
 ||brandonhutchinson.com
 ||braumeister.org
+||brave.com
 .bravotube.net
 ||bravotube.net
 .brazzers.com
@@ -3075,6 +3077,7 @@ duping.net
 dupola.com
 dupola.net
 .dushi.ca
+||duyaoss.com
 ||dvorak.org
 .dw.com
 ||dw.com
@@ -3653,6 +3656,7 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 .geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
+||geph.io
 .gerefoundation.org
 ||getastrill.com
 .getchu.com
