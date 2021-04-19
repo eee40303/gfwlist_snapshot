@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eR4EkZydeIkAfNtREgrwCA
+! Checksum: rmAZ+SihrUL2AjMMXHSzaw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 19:37:51 -0400
+! Last Modified: Mon, 19 Apr 2021 19:45:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1668,6 +1668,7 @@ cn.nytstyle.com
 ||kinmen.org.tw
 
 !!---V2EX---
+||v2ex.com
 !--.v2ex.com
 !--Included in above rule: dns.v2ex.com
 @@|http://v2ex.com
