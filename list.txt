@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9DAmNghw0OUqXZB7B8T/+g
+! Checksum: xYsriH3vacrUO63nIppAZw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 16 Apr 2021 13:08:19 -0400
+! Last Modified: Sun, 18 Apr 2021 21:04:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6641,6 +6641,8 @@ teensinasia.com
 .tenacy.com
 ||tenzinpalmo.com
 .tew.org
+||tew.org
+||tfiflve.com
 .thaicn.com
 ||theatlantic.com
 ||theatrum-belli.com
@@ -7211,6 +7213,7 @@ unpo.org
 |http://untraceable.us
 ||uocn.org
 tor.updatestar.com
+||upghsbc.com
 .upholdjustice.org
 .upload4u.info
 uploaded.net/file
@@ -7906,6 +7909,7 @@ yuanming.net
 yx51.net
 .yyii.org
 ||yyii.org
+||yyjlymb.xyz
 .yzzk.com
 |http://yzzk.com
 
