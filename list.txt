@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: xYsriH3vacrUO63nIppAZw
+! Checksum: Qj9MB/my81dB1sTPFJnTUg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:04:28 -0400
+! Last Modified: Sun, 18 Apr 2021 21:09:43 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2156,6 +2156,7 @@ badoo.com
 .banana-vpn.com
 ||banana-vpn.com
 .band.us
+||bandcamp.com
 .bandwagonhost.com
 ||bandwagonhost.com
 .bangbrosnetwork.com
@@ -2170,7 +2171,6 @@ bannedbook.org
 .barenakedislam.com
 ||barnabu.co.uk
 ||barton.de
-bartvpn.com
 .bastillepost.com
 bayvoice.net
 ||bayvoice.net
@@ -4983,6 +4983,7 @@ my.mail.ru
 makkahnewspaper.com
 .mamingzhe.com
 manicur4ik.ru
+||manyvoices.news
 .maplew.com
 |http://maplew.com
 ||marc.info
@@ -5167,7 +5168,7 @@ molihua.org
 |http://www.monlamit.org
 .moonbbs.com
 ||moonbbs.com
-c1522.mooo.com
+||moptt.tw
 ||monitorchina.org
 bbs.morbell.com
 ||morningsun.org
@@ -5182,10 +5183,11 @@ motor4ik.ru
 ||moviefap.com
 ||www.moztw.org
 .mp3buscador.com
-mp3ye.eu
 ||mpettis.com
-mpfinance.com
-mpinews.com
+.mpfinance.com
+||mpfinance.com
+.mpinews.com
+||mpinews.com
 mponline.hk
 .mqxd.org
 |http://mqxd.org
