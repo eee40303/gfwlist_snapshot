@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 2W87hA5hwuKI6iPuybjLDQ
+! Checksum: DKz03zflYgu96VfnegwvCw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:59:49 -0400
+! Last Modified: Sun, 18 Apr 2021 22:11:26 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1764,6 +1764,7 @@ zhao.1984.city
 .2008xianzhang.info
 ||2008xianzhang.info
 ||2017.hk
+||2047.name
 21andy.com/blog
 .21join.com
 .21pron.com
@@ -1784,6 +1785,7 @@ zhao.1984.city
 .3proxy.ru
 .3ren.ca
 .3tui.net
+||404museum.com
 ||4bluestones.biz
 .4chan.com
 !--||4chan.org
@@ -5370,6 +5372,7 @@ newspeak.cc/story
 ||newstamago.com
 ||newstapa.org
 newstarnet.com
+||newsweek.com
 .newtaiwan.com.tw
 newtalk.tw
 ||newtalk.tw
@@ -6230,6 +6233,7 @@ sheikyermami.com
 shenyun.com
 shenyunperformingarts.org
 ||shenyunperformingarts.org
+||shenyunshop.com
 shenzhoufilm.com
 ||shenzhoufilm.com
 ||sherabgyaltsen.com
@@ -7513,6 +7517,7 @@ webs-tv.net
 .webwarper.net
 |http://webwarper.net
 webworkerdaily.com
+||wechatlawsuit.com
 .weekmag.info
 ||wefightcensorship.org
 .wefong.com
@@ -7938,7 +7943,7 @@ yx51.net
 ||yyii.org
 ||yyjlymb.xyz
 .yzzk.com
-|http://yzzk.com
+||yzzk.com
 
 !--------------------ZZ-------------------------
 zacebook.com
