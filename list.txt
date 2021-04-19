@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XKec+TSPV/DoJ8YEGDLa6A
+! Checksum: nQ1Ds+8SCiXtbMYQ4/KDoA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 19:12:42 -0400
+! Last Modified: Mon, 19 Apr 2021 19:22:58 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4106,6 +4106,7 @@ h1n1china.org
 |http://hacg.red
 .hacken.cc/bbs
 .hacker.org
+||hackmd.io
 ||hackthatphone.net
 hahlo.com
 ||hakkatv.org.tw
@@ -8011,6 +8012,7 @@ zhongguotese.net
 ||zhuatieba.com
 zhuichaguoji.org
 ||zhuichaguoji.org
+||zi.media
 |http://book.zi5.me
 .ziddu.com/download
 ||zillionk.com
