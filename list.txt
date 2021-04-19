@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: s/0FZ8IU05UvnFYpaDKIiQ
+! Checksum: 3t1NOSzRcYtC29JwFxrHHA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 18 Apr 2021 21:13:33 -0400
+! Last Modified: Sun, 18 Apr 2021 21:18:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2241,6 +2241,7 @@ biantailajiao.in
 .biblesforamerica.org
 |http://biblesforamerica.org
 .bic2011.org
+||biedian.me
 bigfools.com
 ||bigjapanesesex.com
 .bignews.org
@@ -4408,7 +4409,8 @@ forum.idsam.com
 |http://ieasy5.com
 .ied2k.net
 .ienergy1.com
-|http://if.ttt/
+||iepl.us
+||ift.tt
 ifanqiang.com
 .ifcss.org
 ||ifcss.org
@@ -7621,6 +7623,8 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 !!! Starting with !! are previous rules replaced by:
 ||wikipedia.org
 
+.wikiwand.com
+||wikiwand.com
 ||wikiwiki.jp
 ||casino.williamhill.com
 ||sports.williamhill.com
