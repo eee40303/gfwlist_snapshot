@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rmAZ+SihrUL2AjMMXHSzaw
+! Checksum: 9G16r2+m7qor9f1wFLOs4w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 19:45:35 -0400
+! Last Modified: Mon, 19 Apr 2021 19:53:50 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3577,6 +3577,8 @@ hk.frienddy.com/hk
 ||fscked.org
 .fsurf.com
 .ftv.com.tw
+||ftv.com.tw
+||ftvnews.com.tw
 fucd.com
 .fuckcnnic.net
 ||fuckcnnic.net
@@ -5167,6 +5169,7 @@ minzhuzhanxian.com
 minzhuzhongguo.org
 ||miroguide.com
 mirrorbooks.com
+||mirrormedia.mg
 .mist.vip
 ||thecenter.mit.edu
 ||scratch.mit.edu
@@ -6172,6 +6175,7 @@ savevid.com
 ||search.com
 .searchtruth.com
 ||searx.me
+||seattlefdc.com
 .secretchina.com
 ||secretchina.com
 ||secretgarden.no
@@ -7407,6 +7411,7 @@ voatibetan.com
 ||voatibetanenglish.com
 .vocativ.com
 vocn.tv
+||voicettank.org
 .vot.org
 ||vot.org
 .vovo2000.com
@@ -7907,6 +7912,7 @@ xa.yimg.com
 .yipub.com
 ||yipub.com
 yinlei.org/mt
+||yiyechat.com
 .yizhihongxing.com
 .yobt.com
 .yobt.tv
