@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /PxioHePqrftdYF7EuuZnQ
+! Checksum: /+D4RMzLulPCL2QXWo7GzA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 15:05:47 -0400
+! Last Modified: Tue, 20 Apr 2021 15:14:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -354,6 +354,7 @@ share.dmhy.org
 ||go.nesnode.com
 ||international-news.newsmagazine.asia
 ||nikkei.com
+||nitter.cc
 ||nitter.net
 ||niu.moe
 ||nofile.io
@@ -6096,6 +6097,7 @@ psblog.name
 .purplelotus.org
 .pursuestar.com
 ||pursuestar.com
+||nitter.pussthecat.org
 .pussyspace.com
 .putihome.org
 .putlocker.com/file
@@ -7937,6 +7939,7 @@ xinhuanet.org
 |http://xinyubbs.net
 .xiongpian.com
 .xiuren.org
+||xixicui.icu
 xizang-zhiye.org
 xjp.cc
 ||xjp.cc
