@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QK9B+ZETGzXS+ULlHW0JRw
+! Checksum: MYgMyYjU8K/PvRRmHQ3wwA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 14:10:28 -0400
+! Last Modified: Tue, 20 Apr 2021 14:22:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -15,7 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!---------403/451/520 & URL Redirects---------
+!---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
@@ -197,6 +197,7 @@ share.dmhy.org
 ||r18.com
 |http://radiko.jp
 ||ramcity.com.au
+||rateyourmusic.com
 ||rd.com
 ||rdio.com
 |https://riseup.net
@@ -1282,6 +1283,7 @@ cdninstagram.com
 ||about.google
 ||admob.com
 ||adsense.com
+||advertisercommunity.com
 ||agoogleaday.com
 ||ai.google
 ||ampproject.org
