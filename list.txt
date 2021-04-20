@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nm0PH/csetxmDH3W6rb0HA
+! Checksum: aTz7AcgQeMMR3q7j0saUQw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 18:27:23 -0400
+! Last Modified: Tue, 20 Apr 2021 18:35:32 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3703,6 +3703,7 @@ free4u.com.ar
 ||freetibet.org
 .freetibetanheroes.org
 |http://freetibetanheroes.org
+||freetribe.me
 .freeviewmovies.com
 .freevpn.me
 |http://freevpn.me
@@ -6388,6 +6389,7 @@ savevid.com
 ||secretgarden.no
 .secretsline.biz
 ||secretsline.biz
+||secureservercdn.net
 ||securetunnel.com
 securityinabox.org
 |https://securityinabox.org
