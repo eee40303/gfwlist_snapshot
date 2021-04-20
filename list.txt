@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NAoZ3rxYZeA3gBJpbwWKBg
+! Checksum: vkPEFmgToyQ4v8H/Y2J9CQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 17:04:42 -0400
+! Last Modified: Tue, 20 Apr 2021 17:11:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1776,7 +1776,7 @@ zh.uncyclopedia.wikia.com
 !--@@||m.wikisource.org
 |http://zh.wikisource.org
 !------6------
-!--||wikiquote.org
+||zh.wikiquote.org
 !--@@||m.wikiquote.org
 !------7------
 !--||wikinews.org
@@ -3905,6 +3905,7 @@ gmbd.cn
 |http://www.gmiddle.com
 |http://www.gmiddle.net
 .gmll.org
+||suche.gmx.net
 ||gnci.org.hk
 ||gnews.org
 go-pki.com
@@ -6150,6 +6151,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||r0.ru
 .ra.gg
 |http://ra.gg/
 .radicalparty.org
