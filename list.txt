@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 66Dj62JIUIe46XI0Mg3jJQ
+! Checksum: KR6eFKXP7GX0+1eVebO93A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 22:28:21 -0400
+! Last Modified: Mon, 19 Apr 2021 22:42:05 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1479,6 +1479,7 @@ blogspot.com
 ||youtube-nocookie.com
 ||youtubeeducation.com
 ||youtubegaming.com
+||youtubekids.com
 ||yt.be
 ||ytimg.com
 ||zynamics.com
@@ -4242,6 +4243,7 @@ have8.com
 ||hdtvb.net
 .hdzog.com
 |http://hdzog.com
+||ordns.he.net
 ||heartyit.com
 .heavy-r.com
 .hec.su
@@ -4344,6 +4346,7 @@ hkbc.net
 .hkbf.org
 .hkbookcity.com
 ||hkbookcity.com
+||hkchronicles.com
 .hkchurch.org
 hkci.org.hk
 .hkcmi.edu
@@ -4356,7 +4359,7 @@ hkday.net
 hkdf.org
 .hkej.com
 .hkepc.com/forum/viewthread.php?tid=1153322
-china.hket.com
+||hket.com
 ||hkfaa.com
 hkfreezone.com
 hkfront.org
@@ -4936,6 +4939,7 @@ ladbrokes.com
 ||labiennale.org
 .lagranepoca.com
 ||lagranepoca.com
+||lala.im
 .lalulalu.com
 .lama.com.tw
 ||lama.com.tw
@@ -5786,6 +5790,7 @@ peacehall.com
 ||peacehall.com
 |http://pearlher.org
 .peeasian.com
+||peing.net
 .pekingduck.org
 ||pekingduck.org
 .pemulihan.or.id
@@ -5923,6 +5928,7 @@ politicalconsultation.org
 .post76.com
 ||post76.com
 .post852.com
+||post852.com
 postadult.com
 .postimg.org
 ||potvpn.com
@@ -6030,6 +6036,7 @@ ss.pythonic.life/
 ||qanote.com
 .qgirl.com.tw
 ||qiandao.today
+||qiangwaikan.com
 .qi-gong.me
 ||qi-gong.me
 !--#921
