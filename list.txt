@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: pTv2G0QApUax9Tw43XT0fw
+! Checksum: Se+cFX4xhah4LtKOaPlJYw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 00:32:20 -0400
+! Last Modified: Tue, 20 Apr 2021 00:44:11 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1903,6 +1903,7 @@ taiwannation.50webs.com
 64wiki.com
 .66.ca
 666kb.com
+||6do.news
 .6park.com
 ||6park.com
 ||6parkbbs.com
@@ -2779,8 +2780,7 @@ chinese-memorial.org
 .chinman.net
 |http://chinman.net
 chithu.org
-|http://chn.chosun.com
-cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
+||cnnews.chosun.com
 .chrdnet.com
 |http://chrdnet.com
 .christianfreedom.org
@@ -2790,10 +2790,9 @@ christianstudy.com
 christusrex.org/www1/sdc
 .chubold.com
 chubun.com
-chuizi.net
 ||christiantimes.org.hk
 .chrlawyers.hk
-|http://chrlawyers.hk
+||chrlawyers.hk
 .churchinhongkong.org/b5/index.php
 |http://churchinhongkong.org/b5/index.php
 .chushigangdrug.ch
@@ -3565,14 +3564,13 @@ video.foxbusiness.com
 ||fringenetwork.com
 ||flecheinthepeche.fr
 .fochk.org
-|http://fochk.org
+||fochk.org
 ||focustaiwan.tw
 .focusvpn.com
 ||fofg.org
 .fofg-europe.net
 .fooooo.com
 ||fooooo.com
-footwiball.com
 .fotile.me
 ||fourthinternational.org
 ||foxdie.us
@@ -5541,7 +5539,8 @@ usmgtcg.ning.com/forum
 ||njactb.org
 njuice.com
 ||njuice.com
-nlfreevpn.com
+||nlfreevpn.com
+||nnews.eu
 
 !--no-ip.com#NOIP
 .ddns.net/
@@ -5588,9 +5587,9 @@ news.now.com%2Fhome
 ||nrk.no
 .ntd.tv
 ||ntd.tv
-!!--Orig:ntdtv.com
 .ntdtv.com
 ||ntdtv.com
+||ntdtv.com.tw
 .ntdtv.co.kr
 ntdtv.ca
 ntdtv.org
@@ -6214,9 +6213,9 @@ riku.me/
 ||rssmeme.com
 ||rtalabel.org
 .rthk.hk
-|http://rthk.hk
+||rthk.hk
 .rthk.org.hk
-|http://rthk.org.hk
+||rthk.org.hk
 .rti.org.tw
 ||rti.org.tw
 ||rti.tw
@@ -6375,6 +6374,7 @@ shenyunperformingarts.org
 ||shenyunshop.com
 shenzhoufilm.com
 ||shenzhoufilm.com
+||shenzhouzhengdao.org
 ||sherabgyaltsen.com
 .shiatv.net
 .shicheng.org
