@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: xzqVD4zs/15hiiDwro1Vvw
+! Checksum: QK9B+ZETGzXS+ULlHW0JRw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 13:58:54 -0400
+! Last Modified: Tue, 20 Apr 2021 14:10:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3509,6 +3509,7 @@ nytimes.map.fastly.net
 favstar.fm
 ||favstar.fm
 faydao.com/weblog
+||faz.net
 .fc2.com
 .fc2china.com
 .fc2cn.com
@@ -3613,6 +3614,7 @@ video.foxbusiness.com
 .fofg-europe.net
 .fooooo.com
 ||fooooo.com
+||foreignaffairs.com
 .fotile.me
 ||fourthinternational.org
 ||foxdie.us
@@ -5938,6 +5940,7 @@ plunder.com
 ||po2b.com
 pobieramy.top
 !--||pocoo.org
+||podbean.com
 ||podictionary.com
 .pokerstars.com
 ||pokerstars.com
@@ -6093,6 +6096,7 @@ ss.pythonic.life/
 .qanote.com
 ||qanote.com
 .qgirl.com.tw
+||qianbai.tw
 ||qiandao.today
 ||qiangwaikan.com
 .qi-gong.me
@@ -6139,6 +6143,7 @@ radicalparty.org
 radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
+||radioline.co
 opml.radiotime.com
 ||radiovaticana.org
 ||radiovncr.com
@@ -6310,6 +6315,7 @@ sacom.hk
 .sambhota.org
 .cn.sandscotaicentral.com
 |http://cn.sandscotaicentral.com
+||sankei.com
 .sanmin.com.tw
 sapikachu.net
 savemedia.com
@@ -7705,6 +7711,7 @@ weijingsheng.org
 weiquanwang.org
 |http://weisuo.ws
 .welovecock.com
+||welt.de
 .wemigrate.org
 |http://wemigrate.org
 wengewang.com
