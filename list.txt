@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: MYgMyYjU8K/PvRRmHQ3wwA
+! Checksum: XrDraINri/0swbi6+U31eQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 14:22:42 -0400
+! Last Modified: Tue, 20 Apr 2021 14:36:06 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -19,6 +19,7 @@
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||afreecatv.com
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
@@ -3080,6 +3081,7 @@ cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
 .dbc.hk/main
+||dbgjd.com
 ||dcard.tw
 dcmilitary.com
 .ddc.com.tw
@@ -6071,6 +6073,7 @@ psblog.name
 .psiphon3.com
 ||psiphon3.com
 .psiphontoday.com
+||pt.im
 .ptt.cc
 ||ptt.cc
 .puffstore.com
@@ -8083,6 +8086,7 @@ zacebook.com
 .zenmate.com
 ||zenmate.com
 ||zenmate.com.ru
+||zerohedge.com
 ||zeronet.io
 ||zeutch.com
 !--www.zfreet.com/post/usejump-browns.html
