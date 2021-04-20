@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: YKYXNsrPTW2+UYIRdBSRvw
+! Checksum: pw8XpFTPj3yvRmvFQ3hneA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 21:15:22 -0400
+! Last Modified: Mon, 19 Apr 2021 21:51:49 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -204,6 +204,7 @@ share.dmhy.org
 ||shiksha.com
 ||slacker.com
 ||sm-miracle.com
+||softnology.biz
 ||soylentnews.org
 ||spotify.com
 ||spreadshirt.es
@@ -793,6 +794,10 @@ cdninstagram.com
 ||thefacebook.com
 ||whatsapp.com
 ||whatsapp.net
+
+!!---Fandom---
+||auntology.fandom.com
+||hongkong.fandom.com
 
 !!---FTChinese---
 .ftchinese.com
@@ -1397,7 +1402,7 @@ blogspot.com
 ||googlepagecreator.com
 ||googleplay.com
 ||googleplus.com
-||googlescholar.com
+||googlescholar.comUSA
 ||googlesource.com
 !--||googlesyndication.com
 !--||googletagmanager.com
@@ -1667,6 +1672,12 @@ cn.nytstyle.com
 !--@@||tncsec.gov.tw
 ||kinmen.org.tw
 
+!!---USA---
+|http://www.americorps.gov
+||jpl.nasa.gov
+||pds.nasa.gov
+||solarsystem.nasa.gov
+
 !!---V2EX---
 ||v2ex.com
 !--.v2ex.com
@@ -1682,6 +1693,76 @@ cn.nytstyle.com
 @@|http://static.v2ex.com
 @@|http://workspace.v2ex.com
 @@|http://www.v2ex.com
+
+!!---Wikia---
+||zh.ecdm.wikia.com
+||evchk.wikia.com
+fq.wikia.com
+zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
+cn.uncyclopedia.wikia.com
+zh.uncyclopedia.wikia.com
+
+!-------------Wikipedia Related-------------
+!!Emergency need only(IP/Port block usage)!!
+!------0------
+!--||mediawiki.org
+!--@@||m.mediawiki.org
+!------1------
+!--||wikidata.org
+!--@@||m.wikidata.org
+!------2------
+!--||wikimedia.org
+!--@@||lists.wikimedia.org
+!--@@||m.wikimedia.org
+!--@@||phabricator.wikimedia.org
+!--@@||upload.wikimedia.org
+!--@@||wikitech.wikimedia.org
+!------3------
+!--||wikibooks.org
+!--@@||m.wikibooks.org
+!------4------
+!--||wikiversity.org
+!--@@||m.wikiversity.org
+!------5------
+!--||wikisource.org
+!--@@||m.wikisource.org
+|http://zh.wikisource.org
+!------6------
+!--||wikiquote.org
+!--@@||m.wikiquote.org
+!------7------
+!--||wikinews.org
+!--@@||m.wikinews.org
+||zh.wikinews.org
+!------8------
+!--||wikivoyage.org
+!--@@||m.wikivoyage.org
+!--|http://zh.wikivoyage.org
+!------9------
+!--||wiktionary.org
+!--@@||m.wiktionary.org
+!--|http://zh.wiktionary.org
+!-----10------
+!--||wikimediafoundation.org
+!--@@||m.wikimediafoundation.org
+!----Main-----
+!!--||en.wikipedia.org
+!--||wikipedia.org
+||ja.wikipedia.org
+!!--zh.wikipedia.org
+!--||zh.wikipedia.org
+!!--||ug.m.wikipedia.org
+!!--zh.m.wikipedia.org
+!!--|https://zh.m.wikipedia.org
+!--@@||m.wikipedia.org
+!!--|https://zh.wikipedia.org
+!--Other Languages of Wikipedia
+!!--wuu.wikipedia.org
+!!--|https://wuu.wikipedia.org
+!!--zh-yue.wikipedia.org
+!!--|https://zh-yue.wikipedia.org
+!!! Starting with !! are previous rules replaced by:
+||wikipedia.org
 
 !!---Yahoo---
 ||data.flurry.com
@@ -1988,7 +2069,6 @@ ameblo.jp
 ||ameblo.jp
 www1.american.edu/ted/ice/tibet
 ||americangreencard.com
-|http://www.americorps.gov
 ||amiblockedornot.com
 .amigobbs.net
 .amitabhafoundation.us
@@ -2044,6 +2124,7 @@ antichristendom.com
 .aojiao.org
 ||aomiwang.com
 video.ap.org
+||apat1989.org
 .apetube.com
 ||apiary.io
 .apigee.com
@@ -2704,7 +2785,7 @@ christusrex.org/www1/sdc
 .chubold.com
 chubun.com
 chuizi.net
-christiantimes.org.hk
+||christiantimes.org.hk
 .chrlawyers.hk
 |http://chrlawyers.hk
 .churchinhongkong.org/b5/index.php
@@ -3301,6 +3382,7 @@ eyevio.jp
 ||faceless.me
 |http://facesoftibetanselfimmolators.info
 ||facesofnyfw.com
+||factpedia.org
 .faith100.org
 |http://faith100.org
 
@@ -3337,7 +3419,6 @@ faluninfo.net
 .falunpilipinas.net
 ||falunworld.net
 familyfed.org
-||auntology.fandom.com
 .fangeming.com
 ||fanglizhi.info
 ||fangong.org
@@ -4872,7 +4953,7 @@ laomiu.com
 |http://lastcombat.com
 ||lastfm.es
 latelinenews.com
-.latibet.org
+||lausan.hk
 ||le-vpn.com
 .leafyvpn.net
 ||leafyvpn.net
@@ -5319,6 +5400,8 @@ mysinablog.com
 ||naacoalition.org
 old.nabble.com
 ||naitik.net
+.nakido.com
+||nakido.com
 .nakuz.com/bbs
 ||nalandabodhi.org
 ||nalandawest.org
@@ -5332,11 +5415,6 @@ namgyalmonastery.org
 .nanzao.com
 !--.nanzao.com/sc/china/20223
 !--.nanzao.com/sc/hk-macau-tw
-||jpl.nasa.gov
-||pds.nasa.gov
-||solarsystem.nasa.gov
-.nakido.com
-||nakido.com
 .naol.ca
 .naol.cc
 uighur.narod.ru
@@ -5347,6 +5425,7 @@ cyberghost.natado.com
 ||nationalawakening.org
 ||nationalinterest.org
 news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
+||nationalreview.com
 .nationsonline.org/oneworld/tibet
 ||line.naver.jp
 ||navyfamily.navy.mil
@@ -5362,6 +5441,7 @@ nccwatch.org.tw
 ||ncn.org
 ||etools.ncol.com
 .nde.de
+||ndi.org
 .ndr.de
 .ned.org
 ||nekoslovakia.net
@@ -5402,7 +5482,7 @@ newspeak.cc/story
 .newsdh.com
 ||newstamago.com
 ||newstapa.org
-newstarnet.com
+newstarnet.com--NN--
 ||newsweek.com
 .newtaiwan.com.tw
 newtalk.tw
@@ -5530,7 +5610,7 @@ oclp.hk
 .ocreampies.com
 ||october-review.org
 offbeatchina.com
-officeoftibet.com
+||officeoftibet.com
 |http://ofile.org
 ||ogaoga.org
 twtr2src.ogaoga.org
@@ -6339,6 +6419,7 @@ sinomontreal.ca
 .sinopitt.info
 .sinoants.com
 ||sinoants.com
+||sinoinsider.com
 .sinoquebec.com
 .sierrafriendsoftibet.org
 sis.xxx
@@ -6720,6 +6801,7 @@ theblemish.com
 ||theconversation.com
 .thedalailamamovie.com
 |http://thedalailamamovie.com
+||thediplomat.com
 ||thedw.us
 thefrontier.hk/tf
 ||theguardian.com
@@ -6741,7 +6823,7 @@ thehousenews.com
 ||theportalwiki.com
 thereallove.kr
 therock.net.nz
-thespeeder.com
+||thesaturdaypaper.com.au
 ||thestandnews.com
 thetibetcenter.org
 thetibetconnection.org
@@ -6756,6 +6838,7 @@ thevivekspot.com
 .theync.com
 |http://theync.com
 .thinkingtaiwan.com
+||thinkingtaiwan.com
 .thisav.com
 |http://thisav.com
 .thlib.org
@@ -6843,8 +6926,8 @@ tibetfund.org
 ||tibetgermany.de
 .tibethaus.com
 .tibetheritagefund.org
-tibethouse.jp
-tibethouse.org
+||tibethouse.jp
+||tibethouse.org
 ||tibethouse.us
 .tibetinfonet.net
 .tibetjustice.org
@@ -6854,7 +6937,7 @@ tibethouse.org
 .tibetoffice.ch
 |http://tibetoffice.ch
 tibetoffice.eu
-tibetoffice.org
+||tibetoffice.org
 tibetonline.com
 ||tibetonline.com
 .tibetoffice.com.au
@@ -7194,6 +7277,7 @@ twiyia.com
 .twtkr.com
 |http://twtkr.com
 .twnorth.org.tw
+||twreporter.org
 twskype.com
 twtrland.com
 twurl.nl
@@ -7311,6 +7395,7 @@ iipdigital.usembassy.gov
 .usocctn.com
 |http://tarr.uspto.gov/
 ||tsdr.uspto.gov
+||ustibetcommittee.org
 .ustream.tv
 ||ustream.tv
 !--||ustwrap.info
@@ -7605,12 +7690,6 @@ wezhiyong.org
 whotalking.com
 whylover.com
 ||whyx.org
-|http://zh.ecdm.wikia.com
-|http://evchk.wikia.com
-fq.wikia.com
-zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
-cn.uncyclopedia.wikia.com
-zh.uncyclopedia.wikia.com
 ||wikileaks.ch
 ||wikileaks.com
 ||wikileaks.de
@@ -7626,69 +7705,6 @@ wildammo.com
 ||collateralmurder.org
 wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
-
-!-------------Wikipedia Related-------------
-!!Emergency need only(IP/Port block usage)!!
-!------0------
-!--||mediawiki.org
-!--@@||m.mediawiki.org
-!------1------
-!--||wikidata.org
-!--@@||m.wikidata.org
-!------2------
-!--||wikimedia.org
-!--@@||lists.wikimedia.org
-!--@@||m.wikimedia.org
-!--@@||phabricator.wikimedia.org
-!--@@||upload.wikimedia.org
-!--@@||wikitech.wikimedia.org
-!------3------
-!--||wikibooks.org
-!--@@||m.wikibooks.org
-!------4------
-!--||wikiversity.org
-!--@@||m.wikiversity.org
-!------5------
-!--||wikisource.org
-!--@@||m.wikisource.org
-|http://zh.wikisource.org
-!------6------
-!--||wikiquote.org
-!--@@||m.wikiquote.org
-!------7------
-!--||wikinews.org
-!--@@||m.wikinews.org
-||zh.wikinews.org
-!------8------
-!--||wikivoyage.org
-!--@@||m.wikivoyage.org
-!--|http://zh.wikivoyage.org
-!------9------
-!--||wiktionary.org
-!--@@||m.wiktionary.org
-!--|http://zh.wiktionary.org
-!-----10------
-!--||wikimediafoundation.org
-!--@@||m.wikimediafoundation.org
-!----Main-----
-!!--||en.wikipedia.org
-!--||wikipedia.org
-||ja.wikipedia.org
-!!--zh.wikipedia.org
-!--||zh.wikipedia.org
-!!--||ug.m.wikipedia.org
-!!--zh.m.wikipedia.org
-!!--|https://zh.m.wikipedia.org
-!--@@||m.wikipedia.org
-!!--|https://zh.wikipedia.org
-!--Other Languages of Wikipedia
-!!--wuu.wikipedia.org
-!!--|https://wuu.wikipedia.org
-!!--zh-yue.wikipedia.org
-!!--|https://zh-yue.wikipedia.org
-!!! Starting with !! are previous rules replaced by:
-||wikipedia.org
-
 .wikiwand.com
 ||wikiwand.com
 ||wikiwiki.jp
