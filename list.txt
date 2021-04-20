@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5m53+JCoaXaiA54mLT+hiw
+! Checksum: mQLtNuPVKMwjU0l46ZJSrQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 10:27:31 -0400
+! Last Modified: Tue, 20 Apr 2021 11:18:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2541,6 +2541,7 @@ busytrade.com
 ||bwh1.net
 bwsj.hk
 ||bx.tl
+||bypasscensorship.org
 
 !--------------------CC-------------------------
 ||c-span.org
@@ -3470,6 +3471,7 @@ nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
 
+||fastestvpn.com
 ||fastssh.com
 ||faststone.org
 favstar.fm
@@ -5685,6 +5687,7 @@ openid.net
 ||openid.net
 .openleaks.org
 ||openleaks.org
+||opentech.fund
 openvpn.net
 ||openvpn.net
 ||openwebster.com
@@ -7126,22 +7129,7 @@ bbs.tuitui.info
 ||tunnelbear.com
 .tunnelr.com
 ||tunnelr.com
-.tuo8.blue
-||tuo8.blue
-.tuo8.cc
-.tuo8.club
-||tuo8.club
-.tuo8.fit
-.tuo8.hk
-.tuo8.in
-.tuo8.ninja
-.tuo8.org
-||tuo8.fit
-||tuo8.org
-.tuo8.pw
-|http://tuo8.pw
-||tuo8.red
-.tuo8.space
+||tunsafe.com
 tuitwit.com
 .turansam.org
 .turbobit.net
