@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FxeonyK2ztnEtyqIgaxfPQ
+! Checksum: T9VdeXIwUTgT7pAmjCgFpQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 11:41:38 -0400
+! Last Modified: Tue, 20 Apr 2021 12:29:39 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -35,7 +35,6 @@
 ||banorte.com
 ||beeg.com
 ||global.bing.com
-||bloombergview.com
 ||booktopia.com.au
 ||boysmaster.com
 ||bynet.co.il
@@ -438,6 +437,7 @@ share.dmhy.org
 ||binance.com
 ||bit-z.com
 ||bitz.ai
+||bitbay.net
 ||bitcoinworld.com
 ||bitfinex.com
 ||bithumb.com
@@ -475,7 +475,9 @@ share.dmhy.org
 ||hitbtc.com
 ||huobi.com
 ||huobi.me
+!--||huobi.li
 ||huobi.pro
+||huobi.sc
 ||huobipro.com
 ||bx.in.th
 ||jex.com
@@ -562,6 +564,16 @@ www.aolnews.com
 .bbcchinese.com
 ||bbcchinese.com
 |http://bbc.in
+
+!!---Bloomberg---
+.bloomberg.cn
+||bloomberg.cn
+.bloomberg.com
+||bloomberg.com
+bloomberg.de
+||bloomberg.de
+||bloombergview.com
+.businessweek.com
 
 !!---ChangeIP---
 .1dumb.com
@@ -1705,6 +1717,25 @@ iipdigital.usembassy.gov
 @@|http://workspace.v2ex.com
 @@|http://www.v2ex.com
 
+!!---VOA---
+cn.voa.mobi
+tw.voa.mobi
+||voacambodia.com
+.voachineseblog.com
+||voachineseblog.com
+.voacantonese.com
+||voacantonese.com
+voachinese.com
+||voachinese.com
+voagd.com
+||voaindonesia.com
+.voanews.com
+||voanews.com
+voatibetan.com
+||voatibetan.com
+.voatibetanenglish.com
+||voatibetanenglish.com
+
 !!---Wikia---
 ||zh.ecdm.wikia.com
 ||evchk.wikia.com
@@ -1722,7 +1753,7 @@ zh.uncyclopedia.wikia.com
 !--||wikidata.org
 !--@@||m.wikidata.org
 !------2------
-!--||wikimedia.org
+||wikimedia.org
 !--@@||lists.wikimedia.org
 !--@@||m.wikimedia.org
 !--@@||phabricator.wikimedia.org
@@ -2417,12 +2448,6 @@ blogtd.net
 .blogtd.org
 |http://blogtd.org
 ||bloodshed.net
-.bloomberg.cn
-||bloomberg.cn
-.bloomberg.com
-||bloomberg.com
-bloomberg.de
-||bloomberg.de
 !--403
 ||assets.bwbx.io
 
@@ -2531,7 +2556,6 @@ brucewang.net
 |http://www.businessinsider.com.au/*
 .businesstoday.com.tw
 ||businesstoday.com.tw
-.businessweek.com
 .busu.org/news
 |http://busu.org/news
 busytrade.com
@@ -3463,6 +3487,7 @@ fangeming.com
 .fangmincn.org
 ||fangmincn.org
 .fanhaodang.com
+||fanqiang.network
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
@@ -3947,6 +3972,7 @@ guaneryu.com
 gunsandammo.com
 ||gutteruncensored.com
 ||gvm.com.tw
+||gwins.org
 .gzm.tv
 ||gzone-anime.info
 
@@ -5318,6 +5344,7 @@ mnewstv.com
 ||mobileways.de
 .mobypicture.com
 |http://moby.to
+||modernchinastudies.org
 ||moeerolibrary.com
 wiki.moegirl.org
 .mofaxiehui.com
@@ -7519,21 +7546,6 @@ visibletweets.com
 |http://vllcs.org
 ||vmixcore.com
 ||vnet.link
-cn.voa.mobi
-tw.voa.mobi
-.voachineseblog.com
-||voachineseblog.com
-voagd.com
-.voacantonese.com
-||voacantonese.com
-voachinese.com
-||voachinese.com
-.voanews.com
-||voanews.com
-voatibetan.com
-||voatibetan.com
-.voatibetanenglish.com
-||voatibetanenglish.com
 .vocativ.com
 vocn.tv
 ||vocus.cc
@@ -7639,8 +7651,9 @@ wanglixiong.com
 ||wango.org
 wangruoshui.net
 www.wangruowang.org
-want-daily.com
+||want-daily.com
 wapedia.mobi/zhsimp
+||warroom.org
 ||waselpro.com
 .watchinese.com
 ||watchout.tw
