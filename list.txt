@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: NlINN0t57gSaLDoVa2OZYw
+! Checksum: N2yNuRRKhdh8mFF/iolNuw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 21:59:19 -0400
+! Last Modified: Mon, 19 Apr 2021 22:10:47 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3623,7 +3623,8 @@ cn.freeones.com
 free4u.com.ar
 .free-ssh.com
 ||free-ssh.com
-.freechina.news/
+||freebeacon.com
+.freechina.news
 ||freechinaforum.org
 ||freechinaweibo.com
 .freedomcollection.org/interviews/rebiya_kadeer
@@ -4404,12 +4405,14 @@ hongmeimei.com
 ||honven.xyz
 .hootsuite.com
 ||hootsuite.com
+||hoover.org
 .hopedialogue.org
 |http://hopedialogue.org
 .hopto.org
 .hornygamer.com
 .hornytrip.com
 |http://hornytrip.com
+||hotair.com
 .hotav.tv
 .hotels.cn
 hotfrog.com.tw
@@ -6798,6 +6801,7 @@ teensinasia.com
 ||theatrum-belli.com
 theblemish.com
 ||thebcomplex.com
+||theblaze.com
 .thebobs.com
 ||thebobs.com
 .thechinabeat.org
@@ -6825,6 +6829,7 @@ thehousenews.com
 .theporndude.com
 ||theporndude.com
 ||theportalwiki.com
+||theprint.in
 thereallove.kr
 therock.net.nz
 ||thesaturdaypaper.com.au
