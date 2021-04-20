@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: vkPEFmgToyQ4v8H/Y2J9CQ
+! Checksum: bWPt7hf0uh2wSpRDoZFSQA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 17:11:35 -0400
+! Last Modified: Tue, 20 Apr 2021 17:27:05 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -383,6 +383,7 @@ share.dmhy.org
 |http://redditlist.com
 ||redditmedia.com
 ||redditstatic.com
+!--defunct
 ||rixcloud.com
 ||rixcloud.us
 ||rsdlmonitor.com
@@ -1856,6 +1857,7 @@ video.yahoo.com
 .100ke.org
 .1000giri.net
 ||1000giri.net
+||10beasts.net
 .10conditionsoflove.com
 ||10musume.com
 123rf.com
@@ -2543,6 +2545,7 @@ brucewang.net
 .buddhistchannel.tv
 .buffered.com
 |http://buffered.com
+||bullguard.com
 .bullog.org
 ||bullog.org
 .bullogger.com
@@ -5667,6 +5670,7 @@ ntdtvla.com
 .nukistream.com
 ||nurgo-software.com
 ||nutaku.net
+||nutsvpn.work
 .nuvid.com
 ||nvdst.com
 nuzcom.com
@@ -5818,6 +5822,8 @@ paljorpublications.com
 ||pandapow.co
 .pandapow.net
 .pandavpn-jp.com
+||pandavpn-jp.com
+||pandavpnpro.com
 .panluan.net
 ||panluan.net
 ||pao-pao.net
@@ -6659,6 +6665,7 @@ spem.at
 |http://spring4u.info
 ||sproutcore.com
 ||sproxy.info
+||squirrelvpn.com
 ||srocket.us
 .ss-link.com
 ||ss-link.com
@@ -7205,7 +7212,7 @@ bbs.tuitui.info
 tuitwit.com
 .turansam.org
 .turbobit.net
-|http://turbobit.net
+||turbobit.net
 .turbohide.com
 ||turbohide.com
 ||turkistantimes.com
@@ -7620,6 +7627,7 @@ vpnfire.com
 ||vpngate.net
 .vpngratis.net
 vpnhq.com
+||vpnhub.com
 .vpnmaster.com
 ||vpnmaster.com
 .vpnmentor.com
