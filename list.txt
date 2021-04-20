@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Se+cFX4xhah4LtKOaPlJYw
+! Checksum: crGANDStJOw0G64WegoLsg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 00:44:11 -0400
+! Last Modified: Tue, 20 Apr 2021 09:58:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -780,6 +780,7 @@ cdninstagram.com
 ||facebookmail.com
 ||fb.com
 ||fb.me
+||fb.watch
 ||fbcdn.net
 ||fbsbx.com
 ||fbaddins.com
@@ -1680,6 +1681,11 @@ cn.nytstyle.com
 ||jpl.nasa.gov
 ||pds.nasa.gov
 ||solarsystem.nasa.gov
+iipdigital.usembassy.gov
+||usfk.mil
+||usmc.mil
+|http://tarr.uspto.gov/
+||tsdr.uspto.gov
 
 !!---V2EX---
 ||v2ex.com
@@ -2550,13 +2556,10 @@ bwsj.hk
 .caijinglengyan.com
 ||caijinglengyan.com
 .calameo.com/books
-cn.calameo.com
-|http://cn.calameo.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
 |http://blog.calibre-ebook.com
-|http://google.calstate.edu
 falun.caltech.edu
 .its.caltech.edu/~falun/
 .cam4.com
@@ -6497,6 +6500,7 @@ sneakme.net
 snowlionpub.com
 home.so-net.net.tw/yisa_tsai
 ||soc.mil
+||socialblade.com
 .socks-proxy.net
 ||socks-proxy.net
 .sockscap64.com
@@ -7416,13 +7420,8 @@ us.to
 .usaip.eu
 ||usaip.eu
 dalailama.usc.edu
-iipdigital.usembassy.gov
-||usfk.mil
 ||usma.edu
-||usmc.mil
 .usocctn.com
-|http://tarr.uspto.gov/
-||tsdr.uspto.gov
 ||ustibetcommittee.org
 .ustream.tv
 ||ustream.tv
