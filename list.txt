@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 7pJG4z2E+3xFMg/XTZOxUg
+! Checksum: XY/vVLtMHG5XvienosoKbQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 11:27:23 -0400
+! Last Modified: Tue, 20 Apr 2021 11:34:54 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2937,6 +2937,7 @@ creaders.net
 csdparty.com
 ||csdparty.com
 ||csis.org
+||csmonitor.com
 ||csuchen.de
 .csw.org.uk
 .ct.org.tw
@@ -3677,6 +3678,7 @@ hk.frienddy.com/hk
 .fromchinatousa.net
 ||frommel.net
 .frontlinedefenders.org
+||frontlinedefenders.org
 .frootvpn.com
 ||frootvpn.com
 ||fscked.org
@@ -5058,6 +5060,7 @@ liuxiaotong.com
 .livedoor.jp
 .liveleak.com
 ||liveleak.com
+||livemint.com
 .livestation.com
 livestream.com
 ||livestream.com
@@ -5623,6 +5626,7 @@ nuzcom.com
 .nwtca.org
 |http://nyaa.eu
 ||nyaa.si
+||nybooks.com
 .nydus.ca
 nylon-angel.com
 nylonstockingsonline.com
@@ -7433,6 +7437,7 @@ usus.cc
 uyghur.co.uk
 |http://uyghur-j.org
 ||uyghuramerican.org
+||uyghurbiz.org
 .uyghurcanadiansociety.org
 .uyghurensemble.co.uk
 ||uyghurcongress.org
