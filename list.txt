@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9G16r2+m7qor9f1wFLOs4w
+! Checksum: lKa9YT552kuTBRAvqSzXBQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 19:53:50 -0400
+! Last Modified: Mon, 19 Apr 2021 20:02:50 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2499,7 +2499,8 @@ ss.carryzhou.com
 .casadeltibetbcn.org
 .casatibet.org.mx
 |http://casatibet.org.mx
-cari.com.my
+.cari.com.my
+||cari.com.my
 ||caribbeancom.com
 .casinoking.com
 .casinoriva.com
@@ -2680,6 +2681,7 @@ chinese-memorial.org
 ||chinesen.de
 .chinesenews.net.au/
 .chinesepen.org
+||chineseradioseattle.com
 .chinesetalks.net/ch
 ||chineseupress.com
 .chingcheong.com
@@ -4807,6 +4809,7 @@ killwall.com
 ||koornk.com
 ||koranmandarin.com
 .korenan2.com
+||kqes.net
 |http://gojet.krtco.com.tw
 .ksdl.org
 .ksnews.com.tw
@@ -4818,7 +4821,8 @@ kun.im
 kusocity.com
 ||kwcg.ca
 ||kwok7.com
-kwongwah.com.my
+.kwongwah.com.my
+||kwongwah.com.my
 .kxsw.life
 ||kxsw.life
 .kyofun.com
@@ -6278,6 +6282,7 @@ shkspr.mobi/dabr
 .shopping.com
 .showhaotu.com
 .showtime.jp
+||showwe.tw
 .shutterstock.com
 ||shutterstock.com
 ch.shvoong.com
@@ -6615,6 +6620,7 @@ tahr.org.tw
 ||taiwandaily.net
 .taiwandc.org
 !--||taiwanembassy.org
+||taiwanhot.net
 .taiwanjustice.com
 taiwankiss.com
 taiwannation.com
@@ -7411,6 +7417,7 @@ voatibetan.com
 ||voatibetanenglish.com
 .vocativ.com
 vocn.tv
+||vocus.cc
 ||voicettank.org
 .vot.org
 ||vot.org
@@ -7816,6 +7823,7 @@ xhamster.com
 ||xiaolan.me
 ||xiaoma.org
 ||xiaohexie.com
+||xiaxiaoqiang.net
 xiezhua.com
 .xihua.es
 forum.xinbao.de/forum
