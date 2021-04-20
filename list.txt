@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: SIyXHzTP2cOw562C3mV14A
+! Checksum: 1JmRDSk/FnNxB8p6nq14bg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 18:56:16 -0400
+! Last Modified: Tue, 20 Apr 2021 19:10:47 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -779,6 +779,7 @@ d3c33hcgiwev3.cloudfront.net
 
 !!---Dynu---
 .dynu.com
+||dynu.com
 .dynu.net
 .freeddns.org
 
@@ -3879,6 +3880,7 @@ gigporno.ru
 |http://softwaredownload.gitbooks.io
 
 !---GitHub---
+||github.blog
 github.com/getlantern
 |https://gist.github.com
 !--http://cthlo.github.io/hktv
@@ -5547,6 +5549,7 @@ bbs.netbig.com
 .netbirds.com
 netcolony.com
 bolin.netfirms.com
+||netflav.com
 ||netme.cc
 netsneak.com
 .network54.com
