@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uU9VrKt74dkCJvwqQyP9Bw
+! Checksum: 03qywjAdaEU4jZzscUqFYQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 17:34:40 -0400
+! Last Modified: Tue, 20 Apr 2021 17:43:40 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2625,6 +2625,7 @@ caochangqing.com
 ||cap.org.hk
 .carabinasypistolas.com
 cardinalkungfoundation.org
+||posts.careerengine.us
 carmotorshow.com
 ||carrd.co
 ss.carryzhou.com
@@ -3041,6 +3042,7 @@ dafahao.com
 |http://daidostup.ru
 .dailidaili.com
 ||dailidaili.com
+||dailymail.co.uk
 .dailymotion.com
 ||dailymotion.com
 ||dailysabah.com
