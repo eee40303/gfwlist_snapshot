@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XrDraINri/0swbi6+U31eQ
+! Checksum: A6wO1fJXXRt43Akh5oTKaQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 14:36:06 -0400
+! Last Modified: Tue, 20 Apr 2021 14:40:34 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2660,7 +2660,9 @@ catholic.org.tw
 .ccim.org
 .cclife.ca
 cclife.org
+||cclife.org
 cclifefl.org
+||cclifefl.org
 .ccthere.com
 ||ccthere.com
 ||ccthere.net
@@ -2741,6 +2743,7 @@ chinaaffairs.org
 chinaaid.us
 chinaaid.org
 chinaaid.net
+||chinaaid.net
 chinacomments.org
 ||chinacomments.org
 .chinachange.org
