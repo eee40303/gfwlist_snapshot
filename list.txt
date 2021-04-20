@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Gh+3G/UD1mcxO+9hD9cK1Q
+! Checksum: s/G6gtdaniH+9ZD4lEEH+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 20:15:12 -0400
+! Last Modified: Mon, 19 Apr 2021 20:33:26 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2494,6 +2494,7 @@ caochangqing.com
 .carabinasypistolas.com
 cardinalkungfoundation.org
 carmotorshow.com
+||carrd.co
 ss.carryzhou.com
 .cartoonmovement.com
 ||cartoonmovement.com
@@ -4187,6 +4188,8 @@ hentaitube.tv
 ||id.heroku.com
 
 heqinglian.net
+||heqinglian.net
+||heritage.org
 ||heungkongdiscuss.com
 .hexieshe.com
 ||hexieshe.com
@@ -7883,6 +7886,7 @@ xyy69.com
 xyy69.info
 
 !--------------------YY-------------------------
+||y2mate.com
 ||yakbutterblues.com
 ||yam.com
 ||yam.org.tw
