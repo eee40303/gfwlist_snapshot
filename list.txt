@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XY/vVLtMHG5XvienosoKbQ
+! Checksum: FxeonyK2ztnEtyqIgaxfPQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 11:34:54 -0400
+! Last Modified: Tue, 20 Apr 2021 11:41:38 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -489,6 +489,7 @@ share.dmhy.org
 ||oex.com
 ||okex.com
 ||otcbtc.com
+||paxful.com
 ||rightbtc.com
 ||topbtc.com
 ||xbtce.com
@@ -5782,7 +5783,6 @@ pastebin.com
 .pastie.org
 ||pastie.org
 ||blog.pathtosharepoint.com
-pbs.org/wgbh/pages/frontline/gate
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
@@ -6006,6 +6006,7 @@ privatetunnel.com
 ||privatetunnel.com
 ||privatevpn.com
 ||procopytips.com
+||project-syndicate.org
 provideocoalition.com
 ||prosiben.de
 proxifier.com
