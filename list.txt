@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 03qywjAdaEU4jZzscUqFYQ
+! Checksum: TRx0au9A4isbtYyJ54htxA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 17:43:40 -0400
+! Last Modified: Tue, 20 Apr 2021 18:10:57 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -359,7 +359,6 @@ share.dmhy.org
 ||niu.moe
 ||nofile.io
 ||now.com
-||sukebei.nyaa.si
 ||openvpn.org
 ||onejav.com
 ||paste.ee
@@ -479,6 +478,7 @@ share.dmhy.org
 ||gatecoin.com
 ||hbg.com
 ||hitbtc.com
+||huobi.co
 ||huobi.com
 ||huobi.me
 !--||huobi.li
@@ -2725,12 +2725,15 @@ cdpwu.org
 .chapm25.com
 .chaturbate.com
 .chuang-yen.org
+||checkgfw.com
 chengmingmag.com
 .chenguangcheng.com
 ||chenguangcheng.com
 .chenpokong.com
+||chenpokong.com
 .chenpokong.net
 |http://chenpokong.net
+||chenpokongvip.com
 ||cherrysave.com
 .chhongbi.org
 chicagoncmtv.com
@@ -3151,6 +3154,7 @@ djangosnippets.org
 .djorz.com
 ||djorz.com
 ||dl-laby.jp
+||dlive.tv
 ||dlsite.com
 ||dlyoutube.com
 ||dmcdn.net
@@ -5022,6 +5026,7 @@ lamrim.com
 |http://laod.cn
 laogai.org
 ||laogai.org
+||laogairesearch.org
 laomiu.com
 .laoyang.info
 |http://laoyang.info
@@ -6730,6 +6735,7 @@ stickeraction.com/sesawe
 ||straitstimes.com
 stranabg.com
 ||straplessdildo.com
+||streamable.com
 ||streamate.com
 ||streamingthe.net
 streema.com/tv/NTDTV_Chinese
@@ -7834,6 +7840,7 @@ winwhispers.info
 |http://wokar.org
 wolfax.com
 ||wolfax.com
+||wombo.ai
 ||woolyss.com
 woopie.jp
 ||woopie.jp
@@ -8176,6 +8183,7 @@ zomobo.net
 ||zoogvpn.com
 ||zootool.com
 .zoozle.net
+||zophar.net
 writer.zoho.com
 ||zorrovpn.com
 ||zpn.im
