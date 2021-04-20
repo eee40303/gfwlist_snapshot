@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: A6wO1fJXXRt43Akh5oTKaQ
+! Checksum: Mk/T5Ki5HinwubWyoUx9yA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 14:40:34 -0400
+! Last Modified: Tue, 20 Apr 2021 14:56:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -286,7 +286,7 @@ share.dmhy.org
 ||bangdream.space
 ||behance.net
 ||bird.so
-||zh.bitterwinter.org
+||bitterwinter.org
 ||bnn.co
 ||businessinsider.com
 ||boomssr.com
@@ -5123,6 +5123,7 @@ logbot.net
 ||logiqx.com
 secure.logmein.com
 ||secure.logmein.com
+||logos.com.hk
 .londonchinese.ca
 .longhair.hk
 longmusic.com
@@ -5711,6 +5712,7 @@ old-cat.net
 omgili.com
 ||omnitalk.com
 ||omnitalk.org
+||omny.fm
 cling.omy.sg
 forum.omy.sg
 news.omy.sg
@@ -5772,6 +5774,7 @@ oursogo.com
 .oursweb.net
 ||ourtv.hk
 xinqimeng.over-blog.com
+||overdaily.org
 ||overplay.net
 share.ovi.com/media
 |http://owl.li
@@ -5942,7 +5945,7 @@ plunder.com
 .plus28.com
 .plusbb.com
 .pmatehunter.com
-|http://pmatehunter.com
+||pmatehunter.com
 .pmates.com
 ||po2b.com
 pobieramy.top
@@ -6292,6 +6295,7 @@ rukor.org
 .runbtx.com
 .rushbee.com
 .ruten.com.tw
+||ruten.com.tw
 rutube.ru
 .ruyiseek.com
 .rxhj.net
@@ -6465,7 +6469,7 @@ shkspr.mobi/dabr
 ||shutterstock.com
 ch.shvoong.com
 .shwchurch.org
-||www.shwchurch.org
+||shwchurch.org
 .shwchurch3.com
 |http://shwchurch3.com
 .siddharthasintent.org
@@ -6875,6 +6879,7 @@ teamamericany.com
 ||teck.in
 .teeniefuck.net
 teensinasia.com
+||tehrantimes.com
 .telecomspace.com
 ||telegraph.co.uk
 ||telegra.ph
@@ -7663,6 +7668,7 @@ wallornot.org
 ||wallpapercasa.com
 .wallproxy.com
 @@||wallproxy.com.cn
+||wallsttv.com
 ||waltermartin.com
 ||waltermartin.org
 ||www.wan-press.org
