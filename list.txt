@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: wX0mukq7DwttV0sq1mELjQ
+! Checksum: 66Dj62JIUIe46XI0Mg3jJQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 22:14:18 -0400
+! Last Modified: Mon, 19 Apr 2021 22:28:21 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -170,6 +170,8 @@ share.dmhy.org
 ||nflxvideo.net
 ||nic.gov
 |http://mo.nightlife141.com
+||noxinfluencer.com
+@@||cn.noxinfluencer.com
 ||nordstrom.com
 ||nordstromimage.com
 ||nordstromrack.com
@@ -2530,6 +2532,7 @@ bwsj.hk
 ||bx.tl
 
 !--------------------CC-------------------------
+||c-span.org
 .c-spanvideo.org
 ||c-spanvideo.org
 ||c-est-simple.com
@@ -3759,6 +3762,7 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 |http://gekikame.com
 .gelbooru.com
 |http://gelbooru.com
+||genius.com
 !--||genuitec.com
 .geocities.co.jp
 .geocities.com/SiliconValley/Circuit/5683/download.html
