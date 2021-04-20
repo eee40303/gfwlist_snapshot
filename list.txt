@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KR6eFKXP7GX0+1eVebO93A
+! Checksum: O0MUdvlt90i0MznE1mi0ew
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 22:42:05 -0400
+! Last Modified: Mon, 19 Apr 2021 23:22:30 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2880,6 +2880,7 @@ commandarms.com
 .communistcrimes.org
 ||communistcrimes.org
 ||communitychoicecu.com
+||comparitech.com
 ||compileheart.com
 ||conoha.jp
 .contactmagazine.net
@@ -4428,6 +4429,7 @@ hotgoo.com
 hotpot.hk
 .hotshame.com
 ||hotspotshield.com
+||hottg.com
 .hotvpn.com
 ||hotvpn.com
 ||hougaige.com
@@ -4894,6 +4896,7 @@ killwall.com
 !--||kmt.org.tw
 .kmuh.org.tw
 .knowledgerush.com/kr/encyclopedia
+||knowyourmeme.com
 .kobo.com
 ||kobo.com
 .kobobooks.com
@@ -5842,6 +5845,7 @@ picturesocial.com
 ||pinterest.co.uk
 .pinterest.com
 ||pinterest.com
+||pinterest.com.mx
 ||pinterest.de
 ||pinterest.dk
 ||pinterest.fr
@@ -6217,6 +6221,7 @@ riku.me/
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
+||rule34.xxx
 .runbtx.com
 .rushbee.com
 .ruten.com.tw
@@ -8110,6 +8115,7 @@ writer.zoho.com
 .zuola.com
 ||zuola.com
 ||zvereff.com
+||zyxel.com
 .zynaima.com
 zyzc9.com
 .zzcartoon.com
