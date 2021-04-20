@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: O0MUdvlt90i0MznE1mi0ew
+! Checksum: pTv2G0QApUax9Tw43XT0fw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Apr 2021 23:22:30 -0400
+! Last Modified: Tue, 20 Apr 2021 00:32:20 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2784,7 +2784,7 @@ cnnews.chosun.com/client/news/viw.asp?cate=C01&mcate
 .chrdnet.com
 |http://chrdnet.com
 .christianfreedom.org
-|http://christianfreedom.org
+||christianfreedom.org
 christianstudy.com
 ||christianstudy.com
 christusrex.org/www1/sdc
@@ -2831,9 +2831,10 @@ psiphon.civisec.org
 .clb.org.hk
 clearharmony.net
 clearwisdom.net
-clinica-tibet.ru
+||clinica-tibet.ru
 .clipfish.de
 cloakpoint.com
+||app.cloudcone.com
 ||club1069.com
 ||clubhouseapi.com
 cmi.org.tw
@@ -5456,6 +5457,7 @@ naweeklytimes.com
 nccwatch.org.tw
 .nch.com.tw
 .ncn.org
+||nchrd.org
 ||ncn.org
 ||etools.ncol.com
 .nde.de
