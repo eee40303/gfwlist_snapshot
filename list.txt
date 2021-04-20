@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: T9VdeXIwUTgT7pAmjCgFpQ
+! Checksum: xzqVD4zs/15hiiDwro1Vvw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 12:29:39 -0400
+! Last Modified: Tue, 20 Apr 2021 13:58:54 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -339,6 +339,7 @@ share.dmhy.org
 ||mastodon.cloud
 ||mastodon.host
 ||mastodon.social
+||mastodon.xyz
 ||matters.news
 ||me.me
 ||metart.com
@@ -2393,12 +2394,12 @@ bigfools.com
 .bignews.org
 ||bignews.org
 .bigsound.org
+||bild.de
 .biliworld.com
 |http://biliworld.com
 |http://billypan.com/wiki
 .binux.me
 ai.binwang.me/couplet
-bipic.net
 .bit.do
 |http://bit.do
 .bit.ly
@@ -2959,6 +2960,7 @@ creaders.net
 .crossvpn.net
 ||crossvpn.net
 ||crucial.com
+||blog.cryptographyengineering.com
 csdparty.com
 ||csdparty.com
 ||csis.org
@@ -3030,6 +3032,7 @@ dafahao.com
 ||dailidaili.com
 .dailymotion.com
 ||dailymotion.com
+||dailysabah.com
 daiphapinfo.net
 .dajiyuan.com
 ||dajiyuan.de
@@ -3561,6 +3564,7 @@ finler.net
 ||fireofliberty.org
 .firetweet.io
 ||firetweet.io
+||firstpost.com
 !--||flagfox.net
 .flagsonline.it
 fleshbot.com
@@ -4419,6 +4423,7 @@ hkjc.com
 .hklft.com
 .hklts.org.hk
 ||hklts.org.hk
+||hkmap.live
 ||hkopentv.com
 ||hkpeanut.com
 hkptu.org
@@ -5201,6 +5206,7 @@ maruta.be/forget
 ||matainja.com
 ||mathable.io
 ||mathiew-badimon.com
+||matrix.org
 ||matsushimakaede.com
 |http://maturejp.com
 mayimayi.com
@@ -5492,6 +5498,7 @@ news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 ||nko.navy.mil
 ||usno.navy.mil
 naweeklytimes.com
+||nbcnews.com
 .nbtvpn.com
 |http://nbtvpn.com
 nccwatch.org.tw
@@ -5763,6 +5770,8 @@ share.ovi.com/media
 |http://htl.li
 |http://mash.to
 www.owind.com
+||owltail.com
+||oxfordscholarship.com
 |http://www.oxid.it
 oyax.com
 oyghan.com/wps
@@ -6481,6 +6490,7 @@ news.singtao.ca
 ||singtaousa.com
 !--||cdp.sinica.edu.tw
 sino-monthly.com
+||sinoca.com
 ||sinocast.com
 sinocism.com
 sinomontreal.ca
@@ -7808,6 +7818,7 @@ worldjournal.com
 ||hqsbonline.wordpress.com
 ||investigating.wordpress.com
 ||jobnewera.wordpress.com
+||matthewdgreen.wordpress.com
 ||minghuiyw.wordpress.com
 ||wo3ttt.wordpress.com
 ||sujiatun.wordpress.com
