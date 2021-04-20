@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mQLtNuPVKMwjU0l46ZJSrQ
+! Checksum: 7pJG4z2E+3xFMg/XTZOxUg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 11:18:38 -0400
+! Last Modified: Tue, 20 Apr 2021 11:27:23 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1998,6 +1998,7 @@ adultkeep.net/peepshow/members/main.htm
 ||af.mil
 .afantibbs.com
 |http://afantibbs.com
+||afr.com
 .ai-kan.net
 ||ai-kan.net
 ai-wen.net
@@ -2490,6 +2491,7 @@ broadbook.com
 .broadpressinc.com
 ||broadpressinc.com
 bbs.brockbbs.com
+||brookings.edu
 brucewang.net
 .brutaltgp.com
 ||brutaltgp.com
