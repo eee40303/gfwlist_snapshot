@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 1JmRDSk/FnNxB8p6nq14bg
+! Checksum: PXYWeORTv9db8/hgkhfInQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 19:10:47 -0400
+! Last Modified: Tue, 20 Apr 2021 21:32:35 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5132,6 +5132,7 @@ livestream.com
 lizhizhuangbi.com
 lkcn.net
 .llss.me/
+||lncn.org
 .load.to
 .lobsangwangyal.com
 .localdomain.ws
