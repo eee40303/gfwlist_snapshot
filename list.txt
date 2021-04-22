@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: PXYWeORTv9db8/hgkhfInQ
+! Checksum: fq5Fy39HK53C9wj78NVRHg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 20 Apr 2021 21:32:35 -0400
+! Last Modified: Wed, 21 Apr 2021 20:23:05 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1546,7 +1546,7 @@ cn.nytstyle.com
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
 !--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com/app/333600
+|http://store.steampowered.com
 
 !!---Telegram---
 !!!---Domain---
@@ -2237,6 +2237,7 @@ asg.to
 .asia-gaming.com
 .asiaharvest.org
 ||asiaharvest.org
+||asianage.com
 asianews.it
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
@@ -2716,6 +2717,7 @@ cdpwu.org
 |http://centurys.net
 .cfhks.org.hk
 .cfos.de
+||cfr.org
 .cftfc.com
 .cgst.edu
 .change.org
@@ -6769,6 +6771,7 @@ summify.com
 .sumrando.com
 ||sumrando.com
 sun1911.com
+||sundayguardianlive.com
 .sunporno.com
 ||sunmedia.ca
 ||sunporno.com
@@ -8020,6 +8023,7 @@ xyy69.info
 ||yam.com
 ||yam.org.tw
 ||yande.re
+||disk.yandex.com
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
