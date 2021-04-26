@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +LLXKg/dPQQ02VKYB0yeDg
+! Checksum: Kyog2hKJosf3nn4hkRhKPg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 22 Apr 2021 20:59:42 -0400
+! Last Modified: Mon, 26 Apr 2021 11:22:04 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2141,6 +2141,7 @@ androidplus.co/apk
 .andygod.com
 |http://andygod.com
 annatam.com/chinese
+||anchor.fm
 ||anchorfree.com
 !--GHS
 ||ancsconf.org
@@ -2149,7 +2150,6 @@ annatam.com/chinese
 angelfire.com/hi/hayashi
 ||angularjs.org
 animecrazy.net
-.animeshippuuden.com
 aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
@@ -3106,7 +3106,7 @@ dcmilitary.com
 .ddhw.info
 ||de-sci.org
 .de-sci.org
-packages.debian.org/zh-cn/lenny/gpass
+||deadline.com
 ||decodet.co
 
 !--Origin:cdn-i30$_
@@ -4922,6 +4922,7 @@ juziyue.com
 kanzhongguo.com
 kanzhongguo.eu
 .kaotic.com
+||kaotic.com
 ||karayou.com
 karkhung.com
 .karmapa.org
@@ -5915,7 +5916,8 @@ perfectvpn.net
 .persiankitty.com
 pfd.org.hk
 phapluan.org
-phayul.com
+.phayul.com
+||phayul.com
 philborges.com
 philly.com
 ||phncdn.com
