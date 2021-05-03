@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: aryJfw3y5zMrKCE9e6+jmw
+! Checksum: IqvSCPvIfSfFJBsCWXxBMQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 May 2021 20:51:07 -0400
+! Last Modified: Sun, 02 May 2021 20:52:31 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5268,6 +5268,7 @@ mcreasite.com
 ||meetup.com
 mefeedia.com
 jihadintel.meforum.org
+||mega.co.nz
 ||mega.nz
 ||megaproxy.com
 ||megarotic.com
