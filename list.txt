@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: IqvSCPvIfSfFJBsCWXxBMQ
+! Checksum: tqCRIdGVgSb0DV7GYEh2dg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 May 2021 20:52:31 -0400
+! Last Modified: Sun, 02 May 2021 21:04:25 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1715,17 +1715,17 @@ iipdigital.usembassy.gov
 ||v2ex.com
 !--.v2ex.com
 !--Included in above rule: dns.v2ex.com
-@@|http://v2ex.com
-@@|http://cdn.v2ex.com
-@@|http://cn.v2ex.com
-@@|http://hk.v2ex.com
-@@|http://i.v2ex.com
-@@|http://lax.v2ex.com
-@@|http://neue.v2ex.com
-@@|http://pagespeed.v2ex.com
-@@|http://static.v2ex.com
-@@|http://workspace.v2ex.com
-@@|http://www.v2ex.com
+!--@@|http://v2ex.com
+!--@@|http://cdn.v2ex.com
+!--@@|http://cn.v2ex.com
+!--@@|http://hk.v2ex.com
+!--@@|http://i.v2ex.com
+!--@@|http://lax.v2ex.com
+!--@@|http://neue.v2ex.com
+!--@@|http://pagespeed.v2ex.com
+!--@@|http://static.v2ex.com
+!--@@|http://workspace.v2ex.com
+!--@@|http://www.v2ex.com
 
 !!---VOA---
 cn.voa.mobi
@@ -2928,6 +2928,7 @@ news.cnyes.com
 |http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
+||conoha.jp
 |http://tosh.comedycentral.com
 comefromchina.com
 ||comefromchina.com
@@ -5370,6 +5371,7 @@ mirrorbooks.com
 mitbbsau.com
 .mixero.com
 ||mixero.com
+||mixi.jp
 mixpod.com
 .mixx.com
 ||mixx.com
