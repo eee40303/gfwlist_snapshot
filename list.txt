@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: uTJBBsIjdQG7OP5V9CJMQA
+! Checksum: aryJfw3y5zMrKCE9e6+jmw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 26 Apr 2021 11:33:00 -0400
+! Last Modified: Sun, 02 May 2021 20:51:07 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5587,7 +5587,7 @@ newspeak.cc/story
 .newsdh.com
 ||newstamago.com
 ||newstapa.org
-newstarnet.com--NN--
+newstarnet.com
 ||newsweek.com
 .newtaiwan.com.tw
 newtalk.tw
