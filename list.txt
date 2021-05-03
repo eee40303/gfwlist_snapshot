@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: tqCRIdGVgSb0DV7GYEh2dg
+! Checksum: hnz9JzdwrHTmX0RtYHcDyA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 May 2021 21:04:25 -0400
+! Last Modified: Sun, 02 May 2021 21:08:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2731,6 +2731,7 @@ cdpwu.org
 ||channelnewsasia.com
 .chapm25.com
 .chaturbate.com
+||chaturbate.com
 .chuang-yen.org
 ||checkgfw.com
 chengmingmag.com
@@ -3412,6 +3413,7 @@ wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 etaiwannews.com
 ||etizer.org
 ||etokki.com
+||etsy.com
 !--.ettoday.net
 .ettoday.net/news/20151216/614081
 etvonline.hk
