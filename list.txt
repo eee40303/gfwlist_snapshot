@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +v76P+wYxo5NUszFgPCWTQ
+! Checksum: +TMRXnVxGENulAqtwJ5m8w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 10 May 2021 15:38:51 -0400
+! Last Modified: Tue, 11 May 2021 15:45:12 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7564,6 +7564,7 @@ uygur.org
 ||v2ray.com
 ||v2raycn.com
 ||v2raytech.com
+||valeursactuelles.com
 .van001.com
 .van698.com
 .vanemu.cn
