@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: R4yB3WmaCfQ/mvUVal4Izw
+! Checksum: mgNTev12W2GOInUo1eZELw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 30 May 2021 10:14:33 -0400
+! Last Modified: Tue, 15 Jun 2021 10:32:45 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7174,8 +7174,10 @@ top81.ws
 ||toptip.ca
 tora.to
 .torcn.com
+||torlock.com
 .torproject.org
 ||torproject.org
+||torrentkitty.tv
 torrentprivacy.com
 ||torrentprivacy.com
 |http://torrentproject.se
