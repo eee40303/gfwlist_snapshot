@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kwEMDjmPlAEP8CITvmCZtA
+! Checksum: evWz8W3KMRacNcvbPPiCwg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 06 Jul 2021 09:48:56 -0400
+! Last Modified: Thu, 15 Jul 2021 11:16:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2263,7 +2263,8 @@ atgfw.org
 .atlaspost.com
 ||atlaspost.com
 ||atdmt.com
-.atlanta168.com/forum
+.atlanta168.com
+||atlanta168.com
 .atnext.com
 ||atnext.com
 ice.audionow.com
