@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: evWz8W3KMRacNcvbPPiCwg
+! Checksum: DDK4yEMaDFlwQl5JAyrSPQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 15 Jul 2021 11:16:42 -0400
+! Last Modified: Thu, 22 Jul 2021 11:36:44 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1487,6 +1487,7 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.google
 ||tv.google
 ||urchin.com
 !--||www.google
@@ -2424,6 +2425,7 @@ ai.binwang.me/couplet
 .bit.ly
 |http://bit.ly
 !--||bitbucket.org
+||bitchute.com
 ||bitcointalk.org
 .bitshare.com
 ||bitshare.com
