@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: DDK4yEMaDFlwQl5JAyrSPQ
+! Checksum: w5l1KGlZ6SEk0TBeNmq/mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 22 Jul 2021 11:36:44 -0400
+! Last Modified: Mon, 02 Aug 2021 23:08:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3559,11 +3559,13 @@ video.fdbox.com
 .fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
+||feeder.co
 ||feelssh.com
 feer.com
 .feifeiss.com
 |http://feitianacademy.org
 .feitian-california.org
+||feixiaohao.com
 ||feministteacher.com
 .fengzhenghu.com
 ||fengzhenghu.com
@@ -5629,6 +5631,7 @@ nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
 ngensis.com
+||ngodupdongchung.com
 .nhentai.net
 |http://nhentai.net
 .nhk-ondemand.jp
