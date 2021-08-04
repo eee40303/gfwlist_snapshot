@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QBIpHVXvot2Y299xjrjU5Q
+! Checksum: WrY9OiVcGPZzXcxsVydHjA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 02 Aug 2021 23:12:13 -0400
+! Last Modified: Wed, 04 Aug 2021 18:38:02 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1980,6 +1980,7 @@ taiwannation.50webs.com
 89.64.charter.constitutionalism.solutions
 89-64.org
 ||89-64.org
+||8964museum.com
 .8news.com.tw
 .8z1.net
 ||8z1.net
