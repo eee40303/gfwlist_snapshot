@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: fhNWDUzA/QLst3Vy6oo00w
+! Checksum: Zh55Ac6ti5e9eYnh6KqkQA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 07 Sep 2021 10:17:40 -0400
+! Last Modified: Tue, 07 Sep 2021 10:20:05 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -227,6 +227,7 @@ share.dmhy.org
 !--@@||intl.target.com
 ||rcam.target.com
 ||technews.tw
+||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
 ||tma.co.jp
@@ -4383,6 +4384,7 @@ heqinglian.net
 ||hexieshe.xyz
 !--Google employee within Google IP
 ||hexxeh.net
+||heyuedi.com
 app.heywire.com
 .heyzo.com
 .hgseav.com
