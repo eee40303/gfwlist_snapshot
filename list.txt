@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Zh55Ac6ti5e9eYnh6KqkQA
+! Checksum: W5Nj6aBqJjoSeMwihKJTfQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 07 Sep 2021 10:20:05 -0400
+! Last Modified: Sun, 19 Sep 2021 17:45:53 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1489,6 +1489,7 @@ blogspot.com
 ||tfhub.dev
 ||thinkwithgoogle.com
 ||tiltbrush.com
+||translate.goog
 ||translate.google
 ||tv.google
 ||urchin.com
@@ -6494,6 +6495,7 @@ shadow.ma
 ||shadowsocks.org
 ||shadowsocks-r.com
 |http://cn.shafaqna.com
+||shahit.biz
 .shambalapost.com
 .shambhalasun.com
 .shangfang.org
