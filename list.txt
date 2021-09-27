@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: W5Nj6aBqJjoSeMwihKJTfQ
+! Checksum: AIOwfHCXl/Qb/f5nuIFMRA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 19 Sep 2021 17:45:53 -0400
+! Last Modified: Mon, 27 Sep 2021 08:26:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -160,6 +160,7 @@ share.dmhy.org
 ||mvg.jp
 .mybet.com
 ||mybet.com
+||mypikpak.com
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
