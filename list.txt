@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AIOwfHCXl/Qb/f5nuIFMRA
+! Checksum: f5XVbSzBGsO8zpkgHDEYuA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 27 Sep 2021 08:26:24 -0400
+! Last Modified: Fri, 08 Oct 2021 13:38:06 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2943,6 +2943,7 @@ news.cnyes.com
 |http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
+||coinmarketcap.com
 ||conoha.jp
 |http://tosh.comedycentral.com
 comefromchina.com
@@ -3761,6 +3762,7 @@ hk.frienddy.com/hk
 ||frootvpn.com
 ||fscked.org
 .fsurf.com
+||ftp.com
 .ftv.com.tw
 ||ftv.com.tw
 ||ftvnews.com.tw
@@ -7221,7 +7223,7 @@ toytractorshow.com
 .tparents.org
 .tpi.org.tw
 ||tpi.org.tw
-traffichaus.com
+||tradingview.com
 ||transparency.org
 ||treemall.com.tw
 trendsmap.com
