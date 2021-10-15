@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Luq0a9wxVNrPLIjGbDZ8Bg
+! Checksum: oclRdQgo7pcczZvdOn+pAg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 11 Oct 2021 13:05:03 -0400
+! Last Modified: Fri, 15 Oct 2021 08:50:40 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1916,6 +1916,7 @@ zhao.1984.city
 .2008xianzhang.info
 ||2008xianzhang.info
 ||2017.hk
+||2021hkcharter.com
 ||2047.name
 21andy.com/blog
 .21join.com
@@ -2456,6 +2457,7 @@ blinw.com
 ||blip.tv/
 .blockcn.com
 ||blockcn.com
+||blockedbyhk.com
 ||blockless.com
 ||blog.de
 .blog.jp
@@ -2498,6 +2500,7 @@ bonbonme.com
 .bongacams.com
 ||boobstagram.com
 ||book.com.tw
+||bookdepository.com
 bookepub.com
 ||books.com.tw
 ||botanwang.com
@@ -3983,7 +3986,8 @@ gongminliliang.com
 |http://gongwt.com
 blog.goo.ne.jp/duck-tail_2009
 .gooday.xyz
-|http://gooday.xyz
+||gooday.xyz
+||goodhope.school
 .goodreads.com
 ||goodreads.com
 .goodreaders.com
