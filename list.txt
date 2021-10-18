@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: oclRdQgo7pcczZvdOn+pAg
+! Checksum: WuUzAShGZXKSbetcck7qCw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 15 Oct 2021 08:50:40 -0400
+! Last Modified: Mon, 18 Oct 2021 10:05:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -464,7 +464,9 @@ share.dmhy.org
 ||coinegg.com
 ||coinex.com
 !--|https://www.coinexchange.io/
+||coingecko.com
 ||coingi.com
+||coinmarketcap.com
 ||coinrail.co.kr
 ||cointiger.com
 ||cointobe.com
@@ -478,6 +480,7 @@ share.dmhy.org
 ||exrates.me
 ||exx.com
 ||fatbtc.com
+||ftx.com
 ||gate.io
 ||gatecoin.com
 ||hbg.com
@@ -2946,7 +2949,6 @@ news.cnyes.com
 |http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
-||coinmarketcap.com
 ||conoha.jp
 |http://tosh.comedycentral.com
 comefromchina.com
@@ -7237,8 +7239,9 @@ trendsmap.com
 ||trialofccp.org
 .trimondi.de/SDLE
 .trouw.nl
-|http://trouw.nl
+||trouw.nl
 .trt.net.tr
+||trt.net.tr
 trtc.com.tw
 .truebuddha-md.org
 |http://truebuddha-md.org
@@ -7759,6 +7762,7 @@ lists.w3.org/archives/public
 .waigaobu.com
 waikeung.org/php_wind
 .wailaike.net
+||wainao.me
 .waiwaier.com
 |http://waiwaier.com
 ||wallmama.com
