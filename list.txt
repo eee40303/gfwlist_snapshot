@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Fd2takkCGjk/7Ja+6eb5Ig
+! Checksum: L3A57KWAdC3xB1oRhojvbA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 02 Dec 2021 08:44:03 -0500
+! Last Modified: Thu, 02 Dec 2021 09:07:18 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2913,6 +2913,7 @@ clearwisdom.net
 .clipfish.de
 cloakpoint.com
 ||app.cloudcone.com
+||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
 cmi.org.tw
@@ -6134,6 +6135,7 @@ privatepaste.com
 privatetunnel.com
 ||privatetunnel.com
 ||privatevpn.com
+||privoxy.org
 ||procopytips.com
 ||project-syndicate.org
 provideocoalition.com
