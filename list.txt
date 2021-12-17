@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: W5bGZIhtd2FJfJx7H2/dfw
+! Checksum: /lwI5i8BI17JXQRfXzXEsg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 10 Dec 2021 13:38:34 -0500
+! Last Modified: Fri, 17 Dec 2021 09:03:05 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6969,7 +6969,7 @@ tcnynj.org
 .tcsovi.org
 .tdm.com.mo
 teamamericany.com
-||static.techspot.com
+||techspot.com
 !--OVH
 ||techviz.net
 ||teck.in
