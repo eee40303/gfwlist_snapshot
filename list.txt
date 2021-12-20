@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 6niK5CWdv9qNTDfeMd0mTw
+! Checksum: XhgOF0zPVAqUSVgksVrjrg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 17 Dec 2021 09:11:48 -0500
+! Last Modified: Mon, 20 Dec 2021 13:03:28 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6382,6 +6382,7 @@ rukor.org
 ||rule34.xxx
 .runbtx.com
 .rushbee.com
+||rusvpn.com
 .ruten.com.tw
 ||ruten.com.tw
 rutube.ru
