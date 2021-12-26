@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: XhgOF0zPVAqUSVgksVrjrg
+! Checksum: 73HUpNJNfJVYs84p6ctViA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Dec 2021 13:03:28 -0500
+! Last Modified: Sat, 25 Dec 2021 21:50:24 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1560,7 +1560,7 @@ cn.nytstyle.com
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
 !--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com
+||store.steampowered.com
 
 !!---Telegram---
 !!!---Domain---
