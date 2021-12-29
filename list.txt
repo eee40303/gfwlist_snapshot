@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: xeT42U6eAEJs645hTI5HiQ
+! Checksum: n55H+J8ZywYYtcPcSSrSEw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 29 Dec 2021 10:23:05 -0500
+! Last Modified: Wed, 29 Dec 2021 10:31:35 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3957,7 +3957,7 @@ globalmuseumoncommunism.org
 ||globalvpn.net
 .glock.com
 gluckman.com/DalaiLama
-gmbd.cn
+||gmgard.com
 ||gmhz.org
 |http://www.gmiddle.com
 |http://www.gmiddle.net
@@ -4811,6 +4811,7 @@ blog.istef.info/2007/10/21/myentunnel
 .istockphoto.com
 isunaffairs.com
 isuntv.com
+||isupportuyghurs.org
 itaboo.info
 ||itaboo.info
 .italiatibet.org
@@ -7606,6 +7607,7 @@ usus.cc
 .uwants.net
 uyghur.co.uk
 |http://uyghur-j.org
+||uyghuraa.org
 ||uyghuramerican.org
 ||uyghurbiz.org
 .uyghurcanadiansociety.org
