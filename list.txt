@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Y4ihVe7WsbOuJDclOYJ7AA
+! Checksum: xeT42U6eAEJs645hTI5HiQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 29 Dec 2021 10:14:21 -0500
+! Last Modified: Wed, 29 Dec 2021 10:23:05 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -509,6 +509,7 @@ share.dmhy.org
 ||otcbtc.com
 ||paxful.com
 ||rightbtc.com
+||solv.finance
 ||topbtc.com
 ||tronscan.org
 ||xbtce.com
@@ -5036,6 +5037,7 @@ killwall.com
 .ksnews.com.tw
 ||ktzhk.com
 .kui.name/event
+||kukuku.uk
 kun.im
 .kurashsultan.com
 ||kurtmunger.com
