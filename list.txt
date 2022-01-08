@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: C26CSrKa+4hWR2iC6wcjlg
+! Checksum: KFK1M3IXNfRUnsUBLRzRVg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 08 Jan 2022 13:13:01 -0500
+! Last Modified: Sat, 08 Jan 2022 13:30:03 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -500,6 +500,7 @@ share.dmhy.org
 ||kspcoin.com
 ||kucoin.com
 ||lbank.info
+||liquiditytp.com
 ||livecoin.net
 ||localbitcoins.com
 ||mercatox.com
@@ -2512,6 +2513,7 @@ bonbonme.com
 ||bookdepository.com
 bookepub.com
 ||books.com.tw
+||borgenmagazine.com
 ||botanwang.com
 .bot.nu
 .bowenpress.com
@@ -2719,8 +2721,8 @@ ccue.com
 ||cdig.info
 cdjp.org
 ||cdjp.org
-.cdn-apple.com
-||cdn-apple.com
+!--.cdn-apple.com
+!--||cdn-apple.com
 .cdnews.com.tw
 cdp1989.org
 cdp1998.org
@@ -4020,7 +4022,7 @@ grandtrial.org
 .graphis.ne.jp
 ||graphis.ne.jp
 ||graphql.org
-!--||s.gravatar.com
+||gravatar.com
 greatfirewall.biz
 ||greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -5026,7 +5028,7 @@ killwall.com
 @@||www.kodingen.com
 ||kompozer.net
 .konachan.com
-|http://konachan.com
+||konachan.com
 .kone.com
 ||koolsolutions.com
 .koornk.com
@@ -5792,6 +5794,7 @@ oizoblog.com
 okk.tw
 |http://filmy.olabloga.pl/player
 old-cat.net
+||olevod.com
 ||olumpo.com
 .olympicwatch.org
 omgili.com
@@ -6313,6 +6316,7 @@ referer.us
 relaxbbs.com
 .relay.com.tw
 .releaseinternational.org
+||religionnews.com
 religioustolerance.org
 renminbao.com
 ||renminbao.com
