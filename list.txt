@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: n55H+J8ZywYYtcPcSSrSEw
+! Checksum: C26CSrKa+4hWR2iC6wcjlg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 29 Dec 2021 10:31:35 -0500
+! Last Modified: Sat, 08 Jan 2022 13:13:01 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -508,6 +508,7 @@ share.dmhy.org
 ||okex.com
 ||otcbtc.com
 ||paxful.com
+||poolin.com
 ||rightbtc.com
 ||solv.finance
 ||topbtc.com
@@ -5636,6 +5637,7 @@ newspeak.cc/story
 ||newsmax.com
 ||newstamago.com
 ||newstapa.org
+||newstatesman.com
 newstarnet.com
 ||newsweek.com
 .newtaiwan.com.tw
