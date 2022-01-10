@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: umcAULZBhnuDk59lCku9TA
+! Checksum: XWddcKyY3mR02Zo52byAYg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 09 Jan 2022 20:31:44 -0500
+! Last Modified: Mon, 10 Jan 2022 18:23:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2383,6 +2383,7 @@ bdsmvideos.net
 ||beevpn.com
 .behindkink.com
 ||beijing1989.com
+||beijing2022.art
 beijingspring.com
 ||beijingspring.com
 .beijingzx.org
