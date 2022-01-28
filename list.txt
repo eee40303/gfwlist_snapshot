@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5GLqHZO+36YwD2w2eDsGFw
+! Checksum: PaCZSfyYM22OmXk0oHvCYQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 21 Jan 2022 16:44:46 -0500
+! Last Modified: Fri, 28 Jan 2022 09:16:48 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -196,6 +196,7 @@ share.dmhy.org
 ||parkansky.com
 ||phmsociety.org
 |http://*.pimg.tw/
+||podcast.co
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -357,7 +358,7 @@ share.dmhy.org
 ||mohu.ml
 ||motiyun.com
 ||msa-it.org
-||dictionary.goo.ne.jp
+||goo.ne.jp
 ||go.nesnode.com
 ||international-news.newsmagazine.asia
 ||nikkei.com
@@ -5451,6 +5452,7 @@ molihua.org
 .money-link.com.tw
 |http://money-link.com.tw
 |http://www.monlamit.org
+||moon.fm
 .moonbbs.com
 ||moonbbs.com
 ||moptt.tw
