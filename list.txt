@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 18Wds7YbgMobnDm/gBR7ww
+! Checksum: sWpMrw7HNcTKxF+GYabZ8A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 28 Jan 2022 21:23:26 -0500
+! Last Modified: Fri, 28 Jan 2022 21:25:08 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6724,6 +6724,7 @@ sokamonline.com
 .sonidodelaesperanza.org
 .sopcast.com
 .sopcast.org
+||nakedsecurity.sophos.com
 .sorazone.net
 ||sos.org
 bbs.sou-tong.org
