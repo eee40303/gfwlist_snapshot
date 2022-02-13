@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: sWpMrw7HNcTKxF+GYabZ8A
+! Checksum: g6xx5+M3khksuGEtcolsvg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 28 Jan 2022 21:25:08 -0500
+! Last Modified: Sun, 13 Feb 2022 10:17:05 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1983,6 +1983,7 @@ taiwannation.50webs.com
 ||6parknews.com
 ||7capture.com
 .7cow.com
+||7-zip.org
 .8-d.com
 |http://8-d.com
 85cc.net
