@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: g6xx5+M3khksuGEtcolsvg
+! Checksum: R7tBEIfBKBKuX/wnrldOcg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 13 Feb 2022 10:17:05 -0500
+! Last Modified: Wed, 23 Feb 2022 13:03:12 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -7277,12 +7277,13 @@ trendsmap.com
 ||trt.net.tr
 trtc.com.tw
 .truebuddha-md.org
-|http://truebuddha-md.org
+||truebuddha-md.org
 trulyergonomic.com
 .truth101.co.tv
-|http://truth101.co.tv
+||truth101.co.tv
 .truthontour.org
-|http://truthontour.org
+||truthontour.org
+||truthsocial.com
 .truveo.com
 .tsctv.net
 .tsemtulku.com
