@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +ry7590rSBBJXuGyzx80vw
+! Checksum: WAGN3xPcaMw89MaSqc7ZNQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 01 Mar 2022 11:56:35 -0500
+! Last Modified: Fri, 11 Mar 2022 22:13:08 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -755,6 +755,9 @@ bloomberg.de
 .yourtrap.com
 .zyns.com
 .zzux.com
+
+!!--Cloudflare--
+||pages.dev
 
 !!---CloudFront---
 d1b183sg0nvnuh.cloudfront.net
