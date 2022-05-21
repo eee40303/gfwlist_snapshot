@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BGWDnWOTYVR8aU7u4ernYw
+! Checksum: UxZSOm+XnwnwJxR6v8gbtA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 21 Apr 2022 11:44:52 -0400
+! Last Modified: Sat, 21 May 2022 13:26:31 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5337,7 +5337,8 @@ jihadintel.meforum.org
 ||megarotic.com
 megavideo.com
 ||megurineluka.com
-meirixiaochao.com
+||meizhong.blog
+||meizhong.report
 .meltoday.com
 .memehk.com
 ||memehk.com
@@ -5346,21 +5347,21 @@ memorybbs.com
 .memrijttm.org
 ||mercdn.net
 .mercyprophet.org
-|http://mercyprophet.org
+||mercyprophet.org
 ||mergersandinquisitions.org
 .meridian-trust.org
-|http://meridian-trust.org
+||meridian-trust.org
 .meripet.biz
-|http://meripet.biz
+||meripet.biz
 .meripet.com
-|http://meripet.com
-merit-times.com.tw
+||meripet.com
+||merit-times.com.tw
 meshrep.com
 .mesotw.com/bbs
 metacafe.com/watch
 ||metafilter.com
 ||meteorshowersonline.com
-|http://www.metro.taipei/
+||metro.taipei
 .metrohk.com.hk/?cmd=detail&categoryID=2
 ||metrolife.ca
 .metroradio.com.hk
@@ -7618,6 +7619,7 @@ us.to
 .usaip.eu
 ||usaip.eu
 dalailama.usc.edu
+||uscnpm.org
 ||usma.edu
 .usocctn.com
 ||ustibetcommittee.org
