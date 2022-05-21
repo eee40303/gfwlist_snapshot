@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: UxZSOm+XnwnwJxR6v8gbtA
+! Checksum: 30J1x0SBpNfRySELJG3b4g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 21 May 2022 13:26:31 -0400
+! Last Modified: Sat, 21 May 2022 13:31:29 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3401,7 +3401,7 @@ englishpen.org
 ||app.evozi.com
 .episcopalchurch.org
 .epochhk.com
-|http://epochhk.com
+||epochhk.com
 epochtimes-bg.com
 ||epochtimes-bg.com
 epochtimes-romania.com
@@ -3413,14 +3413,14 @@ epochtimes.co.kr
 epochtimes.com
 ||epochtimes.com
 .epochtimes.cz
-epochtimes.de
-epochtimes.fr
-.epochtimes.ie
-.epochtimes.it
-epochtimes.jp
-epochtimes.ru
-epochtimes.se
-epochtimestr.com
+||epochtimes.de
+||epochtimes.fr
+||epochtimes.ie
+||epochtimes.it
+||epochtimes.jp
+||epochtimes.ru
+||epochtimes.se
+||epochtimestr.com
 .epochweek.com
 ||epochweek.com
 ||epochweekly.com
@@ -4930,11 +4930,13 @@ weiboscope.jmsc.hku.hk
 ||jobso.tv
 .sunwinism.joinbbs.net
 ||joinclubhouse.com
+||jornaldacidadeonline.com.br
 .journalchretien.net
 ||journalofdemocracy.org
 .joymiihub.com
 .joyourself.com
 jpopforum.net
+||jsdelivr.net
 ||fiddle.jshell.net
 .jubushoushen.com
 ||jubushoushen.com
@@ -7039,6 +7041,7 @@ theblemish.com
 |http://thedalailamamovie.com
 ||thediplomat.com
 ||thedw.us
+||theepochtimes.com
 !--||thefreeland.club
 thefrontier.hk/tf
 ||theguardian.com
