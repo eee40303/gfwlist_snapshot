@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: /rsaakCGb2SJF4uvwk0fpQ
+! Checksum: 8Ye3yjbQ4zEI4QMXmNSBMA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 21 May 2022 13:51:40 -0400
+! Last Modified: Sun, 22 May 2022 00:32:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5831,6 +5831,7 @@ showbiz.omy.sg
 ||on.cc
 ||onedrive.live.com
 ||onion.city
+||onion.ly
 .onlinecha.com
 ||onlineyoutube.com
 ||onlygayvideo.com
@@ -7976,6 +7977,7 @@ woopie.tv
 ||workatruna.com
 .workerdemo.org.hk
 .workerempowerment.org
+||workers.dev
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
