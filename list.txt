@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8Ye3yjbQ4zEI4QMXmNSBMA
+! Checksum: l+uEgVDfH3L7nRTvP8Gjug
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 22 May 2022 00:32:24 -0400
+! Last Modified: Sat, 28 May 2022 00:50:06 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6521,6 +6521,7 @@ forum.setty.com.tw
 .sevenload.com
 ||sevenload.com
 .sex.com
+||sex.com
 .sex-11.com
 ||sex3.com
 ||sex8.cc
@@ -7850,6 +7851,7 @@ washeng.net
 ||watchmygf.net
 ||wav.tv
 .wdf5.com
+||wealth.com.tw
 .wearehairy.com
 .wearn.com
 ||wearn.com
@@ -8083,6 +8085,7 @@ xiezhua.com
 forum.xinbao.de/forum
 .xing.com
 |http://xing.com
+||xinjiangpolicefiles.org
 .xinmiao.com.hk
 ||xinmiao.com.hk
 xinsheng.net
