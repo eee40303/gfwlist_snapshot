@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9nba110UteoUOvrY5DiICA
+! Checksum: 641DEtpb9MH0iWYG5EelHw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 16 Jul 2022 21:15:14 -0400
+! Last Modified: Sat, 16 Jul 2022 21:18:24 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -255,6 +255,7 @@ share.dmhy.org
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
+||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
 ||youwin.com
