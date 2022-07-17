@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: l+uEgVDfH3L7nRTvP8Gjug
+! Checksum: JKN55JHC+yZJAchHk3YkaQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 28 May 2022 00:50:06 -0400
+! Last Modified: Sat, 16 Jul 2022 21:10:26 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2555,6 +2555,7 @@ boyangu.com
 ||bravotube.net
 .brazzers.com
 ||brazzers.com
+||breached.to
 .break.com
 ||break.com
 breakgfw.com
@@ -3775,6 +3776,7 @@ friendfeed.com
 friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 friends-of-tibet.org
 .friendsoftibet.org
+||friendsoftibet.org
 freechina.net
 |http://www.zensur.freerk.com/
 freevpn.nl
