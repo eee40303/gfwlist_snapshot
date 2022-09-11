@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: yTktxTAE0B5S23q6ysaiLw
+! Checksum: cZI7s04exqr5SquZs91n8g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 11 Sep 2022 11:50:09 -0400
+! Last Modified: Sun, 11 Sep 2022 11:54:28 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3395,7 +3395,7 @@ bitc.bme.emory.edu/~lzhou/blogs
 ||encrypt.me
 ||enewstree.com
 .enfal.de
-chinese.engadget.com
+||chinese.engadget.com
 ||engagedaily.org
 englishforeveryone.org
 ||englishfromengland.co.uk
@@ -5157,7 +5157,7 @@ letscorp.net
 ||liberal.org.hk
 .libertytimes.com.tw
 blogs.libraryinformationtechnology.com/jxyz
-.lidecheng.com/blog/fucking-gfw
+||libredd.it
 .lighten.org.tw
 .lightnovel.cn
 @@|https://www.lightnovel.cn
@@ -6876,6 +6876,7 @@ tw.streetvoice.com
 ||studentsforafreetibet.org
 ||stumbleupon.com
 stupidvideos.com
+||substack.com
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
