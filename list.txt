@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: qTMWGT6FPw/EbdKu0QDDsg
+! Checksum: wBzvC1B+z6VhGBTa7u9F2w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 11 Sep 2022 12:01:04 -0400
+! Last Modified: Sun, 25 Sep 2022 00:33:42 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6005,10 +6005,9 @@ penisbot.com
 ||peopo.org
 .percy.in
 .perfectgirls.net
-perfectvpn.net
+||perfect-privacy.com
 .persecutionblog.com
 .persiankitty.com
-pfd.org.hk
 phapluan.org
 .phayul.com
 ||phayul.com
