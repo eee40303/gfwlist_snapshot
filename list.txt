@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: vVtUkMk4WQ0p5AbKGCd4Dg
+! Checksum: SWiJNbVEmKyxSOSZhC+NDA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 28 Oct 2022 10:40:49 -0400
+! Last Modified: Fri, 28 Oct 2022 10:50:19 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2044,6 +2044,7 @@ abclite.net
 ||aboluowang.com
 .aboutgfw.com
 .abs.edu
+||acast.com
 .accim.org
 .aceros-de-hispania.com
 .acevpn.com
@@ -2511,6 +2512,7 @@ blueangellive.com
 .bmfinn.com
 .bnews.co
 ||bnews.co
+||bnext.com.tw
 ||bnrmetal.com
 boardreader.com/thread
 ||boardreader.com
