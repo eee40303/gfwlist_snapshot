@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5GuI07EnMDfqvsDSXVPedA
+! Checksum: apHA1A0PZ1KQClBijpvHJQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 22:42:21 -0500
+! Last Modified: Sun, 08 Jan 2023 22:45:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -493,6 +493,7 @@ share.dmhy.org
 ||gatecoin.com
 ||hbg.com
 ||hitbtc.com
+||hotcoin.com
 ||huobi.co
 ||huobi.com
 ||huobi.me
@@ -2604,6 +2605,7 @@ brucewang.net
 ||bullog.org
 .bullogger.com
 ||bullogger.com
+||bumingbai.net
 ||bunbunhk.com
 .busayari.com
 |http://busayari.com
