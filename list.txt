@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: apHA1A0PZ1KQClBijpvHJQ
+! Checksum: bhb8PQxglkJvvonyISppFA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 22:45:31 -0500
+! Last Modified: Sun, 08 Jan 2023 22:53:40 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2044,6 +2044,7 @@ abclite.net
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
+||about.me
 .aboutgfw.com
 .abs.edu
 ||acast.com
@@ -2825,6 +2826,7 @@ chinachannel.hk
 ||chinaelections.org
 .chinaeweekly.com
 ||chinaeweekly.com
+||chinafile.com
 ||chinafreepress.org
 .chinagate.com
 chinageeks.org
@@ -5493,6 +5495,7 @@ molihua.org
 ||moonbbs.com
 ||moptt.tw
 ||monitorchina.org
+||monocloud.me
 bbs.morbell.com
 ||morningsun.org
 ||moroneta.com
@@ -8397,22 +8400,22 @@ ultrasurf
 @@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
 @@||storage.googleapis.com
 !--@@||translate.googleapis.com
 @@||update.googleapis.com
