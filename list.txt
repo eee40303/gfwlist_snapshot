@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: bhb8PQxglkJvvonyISppFA
+! Checksum: D6cpWmyOYEJcW+N8khe45Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 22:53:40 -0500
+! Last Modified: Sun, 08 Jan 2023 23:02:01 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4547,6 +4547,7 @@ hkptu.org
 hnjhj.com
 ||hnjhj.com
 .hnntube.com
+||hojemacau.com.mo
 ||hola.com
 ||hola.org
 holymountaincn.com
@@ -5671,6 +5672,7 @@ newcenturynews.com
 ||newhighlandvision.com
 newipnow.com
 .newlandmagazine.com.au
+||newmitbbs.com
 .newnews.ca
 news100.com.tw
 newschinacomment.org
@@ -5703,7 +5705,7 @@ newyorktimes.com
 .nextmedia.com
 
 ||nexton-net.jp
-nexttv.com.tw
+||nexttv.com.tw
 .nfjtyd.com
 ||co.ng.mil
 ||nga.mil
@@ -5974,6 +5976,7 @@ pastebin.com
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||pawoo.net
 pbs.org/wgbh/pages/frontline/tankman
 pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
@@ -7349,7 +7352,7 @@ tsunagarumon.com
 ||tt1069.com
 .tttan.com
 ||tttan.com
-bb.ttv.com.tw/bb
+||ttv.com.tw
 tu8964.com
 .tubaholic.com
 .tube.com
