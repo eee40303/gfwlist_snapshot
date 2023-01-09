@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: D6cpWmyOYEJcW+N8khe45Q
+! Checksum: LgKbI4GbZPcVwOtij4XnjA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 23:02:01 -0500
+! Last Modified: Sun, 08 Jan 2023 23:07:58 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1524,6 +1524,7 @@ blogspot.com
 ||waymo.com
 ||web.dev
 ||webmproject.org
+||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
 ||widevine.com
@@ -4632,6 +4633,7 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
+||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
 ||huping.net
@@ -6487,8 +6489,8 @@ sacom.hk
 ||salvation.org.hk
 .samair.ru/proxy/type-01
 .sambhota.org
-.cn.sandscotaicentral.com
-|http://cn.sandscotaicentral.com
+||cn.sandscotaicentral.com
+||sankakucomplex.com
 ||sankei.com
 .sanmin.com.tw
 sapikachu.net
