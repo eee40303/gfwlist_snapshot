@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nUZdXw8eJTkdENEgyMZBcg
+! Checksum: whIuycGMbFz7zi0gq94wow
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 07 Jan 2023 19:54:27 -0500
+! Last Modified: Sun, 08 Jan 2023 22:37:19 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -3250,6 +3250,7 @@ dongtaiwang.com
 ||dotvpn.com
 .doub.io
 ||doub.io
+||doublethinklab.org
 ||dougscripts.com
 ||douhokanko.net
 ||doujincafe.com
@@ -8413,10 +8414,10 @@ ultrasurf
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
