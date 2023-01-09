@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: whIuycGMbFz7zi0gq94wow
+! Checksum: 5GuI07EnMDfqvsDSXVPedA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 22:37:19 -0500
+! Last Modified: Sun, 08 Jan 2023 22:42:21 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -503,6 +503,7 @@ share.dmhy.org
 ||bx.in.th
 ||jex.com
 ||kex.com
+||kraken.com
 ||kspcoin.com
 ||kucoin.com
 ||lbank.info
@@ -4438,6 +4439,7 @@ app.heywire.com
 .hhdcb3office.org
 .hhthesakyatrizin.org
 hi-on.org.tw
+||hiccears.com
 hidden-advent.org
 ||hidden-advent.org
 hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
