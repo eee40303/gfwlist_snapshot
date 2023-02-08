@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: LgKbI4GbZPcVwOtij4XnjA
+! Checksum: O9euSoo1CYUz4x/qEtWsyg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 08 Jan 2023 23:07:58 -0500
+! Last Modified: Tue, 07 Feb 2023 23:21:30 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -93,7 +93,7 @@ share.dmhy.org
 ||getuploader.com
 ||ghidra-sre.org
 !--|https://github.com/programthink/zhao
-|https://raw.githubusercontent.com/programthink/zhao
+!--|https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -8232,6 +8232,7 @@ yinlei.org/mt
 .yomiuri.co.jp
 yong.hu
 .yorkbbs.ca
+||you.com
 ||youxu.info
 .youjizz.com
 ||youjizz.com
