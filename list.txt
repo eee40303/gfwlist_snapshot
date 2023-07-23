@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: FzrwXOsUo2Kxse803GAd6A
+! Checksum: OOq4WGu7/Q2QIeN8IyYx+w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 19 May 2023 23:42:18 -0400
+! Last Modified: Sun, 23 Jul 2023 13:07:22 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4076,6 +4076,7 @@ greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 .greenvpn.org
+||grindr.com
 ||grotty-monday.com
 gs-discuss.com
 ||gsearch.media
