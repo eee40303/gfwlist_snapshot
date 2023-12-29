@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Rf0R+6HidL4XhklqC5ISWg
+! Checksum: AwCDSTc2/YVAfu24JdX4Xg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 02 Dec 2023 01:34:49 -0500
+! Last Modified: Fri, 29 Dec 2023 11:37:07 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -846,6 +846,7 @@ cdninstagram.com
 @@||ip6.static.sl-reverse.com
 ||parse.com
 ||thefacebook.com
+||threads.net
 ||whatsapp.com
 ||whatsapp.net
 
@@ -8203,6 +8204,7 @@ xyy69.info
 ||yam.org.tw
 ||yande.re
 ||disk.yandex.com
+||disk.yandex.ru
 .yanghengjun.com
 yangjianli.com
 .yasni.co.uk
