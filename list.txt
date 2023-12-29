@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AwCDSTc2/YVAfu24JdX4Xg
+! Checksum: UuIvNSxanJL6ZAZ1N+L+Vw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 29 Dec 2023 11:37:07 -0500
+! Last Modified: Fri, 29 Dec 2023 11:43:06 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6249,6 +6249,7 @@ psblog.name
 .psiphon3.com
 ||psiphon3.com
 .psiphontoday.com
+||pstatic.net
 ||pt.im
 .ptt.cc
 ||ptt.cc
@@ -8017,14 +8018,14 @@ winwhispers.info
 .witopia.net
 .wjbk.org
 ||wjbk.org
-|http://wn.com
+||wmflabs.org
+||wn.com
 .wnacg.com
 .wnacg.org
 .wo.tc
 ||woeser.com
-|http://woesermiddle-way.net/
 .wokar.org
-|http://wokar.org
+||wokar.org
 wolfax.com
 ||wolfax.com
 ||wombo.ai
