@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: +3wbUEzmSUsw84cA27BgVA
+! Checksum: eiR0X8r2l8rCKSXgXpBtHw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 29 Dec 2023 12:05:17 -0500
+! Last Modified: Fri, 29 Dec 2023 12:08:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -383,6 +383,7 @@ share.dmhy.org
 ||potato.im
 ||premproxy.com
 ||prism-break.org
+||proton.me
 ||protonvpn.com
 ||api.pureapk.com
 ||quora.com
@@ -3009,7 +3010,7 @@ commandarms.com
 .contactmagazine.net
 .convio.net
 .coobay.com
-|http://www.cool18.com/bbs*/
+||cool18.com
 .coolaler.com
 ||coolaler.com
 coolder.com
@@ -4149,7 +4150,6 @@ echofon.com
 !-||govecn.org
 !-||gqueues.com
 !-||graphycalc.com
-||greasespot.net
 !-||blog.growlforwindows.com
 !-H
 !-||hcm.com.tw
