@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: eiR0X8r2l8rCKSXgXpBtHw
+! Checksum: oLowl9A+k8MbUBzFgYlFhw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 29 Dec 2023 12:08:31 -0500
+! Last Modified: Sat, 30 Dec 2023 12:21:33 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1591,12 +1591,19 @@ cn.nytstyle.com
 
 !!---Telegram---
 !!!---Domain---
+||cdn-telegram.org
+||comments.app
+||graph.org
+||quiz.directory
 ||t.me
 ||updates.tdesktop.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
-.telegramdownload.com
+||telegram.space
+||telegram-cdn.org
+||telegramdownload.com
+||telegra.ph
 ||telesco.pe
 !!!---IP---
 
@@ -7081,7 +7088,6 @@ teensinasia.com
 ||tehrantimes.com
 .telecomspace.com
 ||telegraph.co.uk
-||telegra.ph
 .tenacy.com
 ||tenzinpalmo.com
 .tew.org
