@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: oLowl9A+k8MbUBzFgYlFhw
+! Checksum: 0LN0ip3+tfqg7VWpsYQAfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 30 Dec 2023 12:21:33 -0500
+! Last Modified: Sat, 30 Dec 2023 12:31:14 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2672,6 +2672,7 @@ bwsj.hk
 .caijinglengyan.com
 ||caijinglengyan.com
 .calameo.com/books
+||calendarz.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
@@ -3921,6 +3922,7 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 |http://gekikame.com
 .gelbooru.com
 |http://gelbooru.com
+||generated.photos
 ||genius.com
 !--||genuitec.com
 .geocities.co.jp
@@ -4644,7 +4646,9 @@ huaxia-news.com
 huaxiabao.org
 huaxin.ph
 ||huayuworld.org
-.huffingtonpost.com/rebiya-kadeer
+||huffingtonpost.com
+||huffpost.com
+||huggingface.co
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
@@ -7915,6 +7919,7 @@ washeng.net
 .watch8x.com
 ||watchmygf.net
 ||wav.tv
+||wd.bible
 .wdf5.com
 ||wealth.com.tw
 .wearehairy.com
