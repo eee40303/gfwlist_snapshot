@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 9PVgZURV+9DlFwAZIld/ZQ
+! Checksum: mkMaBM406tZPAzwh/JxuAQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 19 Feb 2024 10:27:32 -0500
+! Last Modified: Thu, 28 Mar 2024 14:44:10 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -45,11 +45,13 @@
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||ciciai.com
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
 ||costco.com
+||coze.com
 ||crossfire.co.kr
 ||crunchyroll.com
 ||d2pass.com
@@ -2271,6 +2273,7 @@ appledaily.com.tw
 ||archive.is
 .archive.li
 ||archive.li
+||archive.md
 ||archive.org
 ||archive.ph
 archive.today
