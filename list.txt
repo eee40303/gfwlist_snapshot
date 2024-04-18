@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 5W3+3BA5PDsBsJhOaeD/GA
+! Checksum: gHBO7giD5vmfIRLHLruxVA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 14 Apr 2024 10:56:29 -0400
+! Last Modified: Thu, 18 Apr 2024 11:09:30 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -489,10 +489,12 @@ share.dmhy.org
 ||dragonex.io
 ||ebtcbank.com
 ||etherdelta.com
+||ethermine.org
 ||etherscan.io
 ||exmo.com
 ||exrates.me
 ||exx.com
+||f2pool.com
 ||fatbtc.com
 ||ftx.com
 ||gate.io
@@ -5017,6 +5019,7 @@ juziyue.com
 ||juziyue.com
 ||jwmusic.org
 @@||music.jwmusic.org
+||cdn.jwplayer.com
 .jyxf.net
 
 !--------------------KK-------------------------
