@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AQkqWfIjhRdOIFQWxceWFQ
+! Checksum: 0jT5GkangF3+MOkDbG12LA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 30 Dec 2024 10:03:17 -0500
+! Last Modified: Mon, 30 Dec 2024 10:11:29 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1375,6 +1375,7 @@ blogspot.com
 ||digisfera.com
 ||dns.google
 ||hub.docker.com
+||docs.new
 ||domains.google
 ||duck.com
 ||environment.google
@@ -1526,6 +1527,9 @@ blogspot.com
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
+||sheets.new
+||slides.new
+||snapseed.com
 ||stories.google
 ||sustainability.google
 ||synergyse.com
@@ -1545,6 +1549,7 @@ blogspot.com
 ||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
+||whats.new
 ||widevine.com
 ||withgoogle.com
 ||withyoutube.com
@@ -2619,7 +2624,8 @@ bbs.brockbbs.com
 brucewang.net
 .brutaltgp.com
 ||brutaltgp.com
-.bt2mag.com
+||bsky.app
+||bsky.social
 ||bt95.com
 .btaia.com
 .btbtav.com
@@ -7883,6 +7889,7 @@ vpnjack.com
 .vpser.net
 @@||vpser.net
 vraiesagesse.net
+||vrchat.com
 .vrmtr.com
 ||vtunnel.com
 ||vuku.cc
