@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 0jT5GkangF3+MOkDbG12LA
+! Checksum: fOTCfHVULULfkptyd9d1+A
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 30 Dec 2024 10:11:29 -0500
+! Last Modified: Tue, 31 Dec 2024 09:35:36 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6046,8 +6046,9 @@ pbwiki.com
 ||pbxes.com
 ||pbxes.org
 pcdvd.com.tw
+||pcgamestorrents.com
 .pchome.com.tw
-|http://pcij.org
+||pcij.org
 .pcstore.com.tw
 ||pct.org.tw
 pdetails.com
