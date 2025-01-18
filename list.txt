@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: PJoYT9T0tK/cRQPSiDhqkA
+! Checksum: N6yZx2+iTViptrt5/U8fhQ
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Jan 2025 09:22:05 -0500
+! Last Modified: Sat, 18 Jan 2025 09:37:56 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2085,6 +2085,7 @@ a5.com.ru
 .abchinese.com
 abclite.net
 |https://www.abclite.net
+||abebooks.co.uk
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
@@ -2748,6 +2749,7 @@ ss.carryzhou.com
 .cari.com.my
 ||cari.com.my
 ||caribbeancom.com
+||carousell.com.hk
 .casinoking.com
 .casinoriva.com
 ||catch22.net
@@ -2833,6 +2835,7 @@ cdp2006.org
 .changsa.net
 |http://changsa.net
 ||channelnewsasia.com
+||chanworld.org
 .chapm25.com
 ||chatgpt.com
 .chaturbate.com
@@ -3517,10 +3520,6 @@ erabaru.net
 .eroticsaloon.net
 .eslite.com
 ||eslite.com
-!--.eslite.com/product
-!--.eslite.com/Search_BW.aspx?q
-wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
-||esu.dog
 .etaa.org.au
 .etadult.com
 etaiwannews.com
