@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BZUefB22itmhAjqqdpvRkA
+! Checksum: Lt7iRpL0kXcAnsybwDF02Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 12 Jan 2025 11:56:36 -0500
+! Last Modified: Sat, 18 Jan 2025 09:16:38 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -207,6 +207,7 @@ share.dmhy.org
 ||phmsociety.org
 |http://*.pimg.tw/
 ||podcast.co
+||popai.pro
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -1569,6 +1570,10 @@ blogspot.com
 
 !!---KickASS---
 !--OFFICIAL URL list at: https://kastatus.com
+
+!!---Microsoft---
+!--@@||bing.com
+||copilot.microsoft.com
 
 !!---NaughtyAmerica---
 ||naughtyamerica.com
@@ -8463,7 +8468,6 @@ ultrasurf
 !################Whitelist Start################
 @@||aliyun.com
 @@||baidu.com
-!--@@||bing.com
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
