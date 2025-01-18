@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Lt7iRpL0kXcAnsybwDF02Q
+! Checksum: PJoYT9T0tK/cRQPSiDhqkA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Jan 2025 09:16:38 -0500
+! Last Modified: Sat, 18 Jan 2025 09:22:05 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2490,8 +2490,8 @@ beric.me
 @@||bianlei.com
 biantailajiao.com
 biantailajiao.in
-.biblesforamerica.org
-|http://biblesforamerica.org
+||biblesforamerica.org
+||vpl.bibliocommons.com
 .bic2011.org
 ||biedian.me
 bigfools.com
@@ -3201,13 +3201,13 @@ dalianmeng.org
 daolan.net
 darktoy.net
 ||darrenliuwei.com
+||dashlane.com
 ||dastrassi.org
 ||daum.net
 .david-kilgour.com
 |http://david-kilgour.com
 daxa.cn
 ||daxa.cn
-cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
 ||dbgjd.com
@@ -6559,7 +6559,7 @@ sacom.hk
 ||cn.sandscotaicentral.com
 ||sankakucomplex.com
 ||sankei.com
-.sanmin.com.tw
+||sanmin.com.tw
 sapikachu.net
 savemedia.com
 ||savethesounds.info
