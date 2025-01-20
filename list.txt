@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: nEJVEix88C+WNRLLEe0PVg
+! Checksum: d2HlLEJFEnR+RVzygYLawg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 11:30:01 -0500
+! Last Modified: Mon, 20 Jan 2025 11:45:21 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -144,6 +144,7 @@ share.dmhy.org
 ||kkbox.com
 ||leisurepro.com
 ||lifemiles.com
+||lih.kg
 ||longtoes.com
 ||lovetvshow.com
 |http://www.m-sport.co.uk
@@ -5432,6 +5433,7 @@ jihadintel.meforum.org
 ||mega.co.nz
 ||mega.io
 ||mega.nz
+||megalodon.jp
 ||megaproxy.com
 ||megarotic.com
 megavideo.com
