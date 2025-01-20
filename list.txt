@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: kfZ4mimt4NFrq2KSoMPwQg
+! Checksum: BaRal5utodgnRGqOoE1nTA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 13:46:43 -0500
+! Last Modified: Mon, 20 Jan 2025 13:53:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1547,6 +1547,7 @@ blogspot.com
 ||translate.goog
 ||tv.google
 ||urchin.com
+||usercontent.goog
 !--||www.google
 ||waveprotocol.org
 ||waymo.com
@@ -1726,8 +1727,6 @@ cn.nytstyle.com
 @@||moe.gov.tw
 @@||nankan.gov.tw
 @@||ncree.gov.tw
-@@||necoast-nsa.gov.tw
-@@||siraya-nsa.gov.tw
 @@||cromotc.nat.gov.tw
 @@||tax.nat.gov.tw
 @@||necoast-nsa.gov.tw
@@ -2338,6 +2337,7 @@ asg.to
 ||asiaone.com
 .asiatgp.com
 .asiatoday.us
+||ask.com
 ||askstudent.com
 .askynz.net
 ||askynz.net
@@ -3892,6 +3892,7 @@ fuckgfw.org
 .fulione.com
 |https://fulione.com
 ||fullerconsideration.com
+||fullservicegame.com
 fulue.com
 .funf.tw
 funp.com
@@ -7436,7 +7437,6 @@ tsquare.tv
 .tsu.org.tw
 tsunagarumon.com
 !--|http://www.tsuru-bird.net/
-.tsctv.net
 ||tt1069.com
 .tttan.com
 ||tttan.com
