@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: N6yZx2+iTViptrt5/U8fhQ
+! Checksum: A81phanStcvgDQVrc8uJPA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 18 Jan 2025 09:37:56 -0500
+! Last Modified: Mon, 20 Jan 2025 01:02:56 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -21,6 +21,7 @@
 !--||adorama.com
 ||afreecatv.com
 ||agnesb.fr
+||airitilibrary.com
 ||akiba-web.com
 ||altrec.com
 ||angela-merkel.de
@@ -2031,6 +2032,7 @@ taiwannation.50webs.com
 .66.ca
 666kb.com
 ||6do.news
+||6do.world
 .6park.com
 ||6park.com
 ||6parkbbs.com
@@ -2308,7 +2310,7 @@ archive.today
 ||archiveofourown.com
 ||archiveofourown.org
 .arctosia.com
-|http://arctosia.com
+||arctosia.com
 ||areca-backup.org
 .arethusa.su
 ||arethusa.su
@@ -6792,9 +6794,10 @@ forum.slime.com.tw
 .smarthide.com
 ||app.smartmailcloud.com
 smchbooks.com
-.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
+||smh.com.au
 smhric.org
 .smith.edu/dalailama
+||smn.news
 .smyxy.org
 !--TODO-no-homepage
 ||snapchat.com
@@ -6869,8 +6872,9 @@ soundofhope.org
 |http://sourceforge.net/p*/shadowsocksgui/
 .sourcewadio.com
 ||south-plus.org
-southnews.com.tw
-sowers.org.hk
+||southmongolia.org
+||southnews.com.tw
+||sowers.org.hk
 ||wlx.sowiki.net
 ||spankbang.com
 .spankingtube.com
