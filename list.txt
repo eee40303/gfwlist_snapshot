@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: A81phanStcvgDQVrc8uJPA
+! Checksum: ODW9nI3lEwj1nQPDY8is4w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 01:02:56 -0500
+! Last Modified: Mon, 20 Jan 2025 01:18:16 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2471,10 +2471,11 @@ beric.me
 .bestgore.com
 .bestpornstardb.com
 ||bestvpn.com
-.bestvpnanalysis.com
-.bestvpnserver.com
-.bestvpnservice.com
-.bestvpnusa.com
+||bestvpnanalysis.com
+||bestvpnforchina.net
+||bestvpnserver.com
+||bestvpnservice.com
+||bestvpnusa.com
 ||bet365.com
 .betfair.com
 ||betternet.co
@@ -2839,6 +2840,7 @@ cdp2006.org
 ||channelnewsasia.com
 ||chanworld.org
 .chapm25.com
+||character.ai
 ||chatgpt.com
 .chaturbate.com
 ||chaturbate.com
@@ -4018,6 +4020,7 @@ gigporno.ru
 !---GitHub---
 ||github.blog
 ||github.com
+||githubcopilot.com
 !--github.com/getlantern
 !--|https://gist.github.com
 !--http://cthlo.github.io/hktv
@@ -6145,6 +6148,7 @@ piraattilahti.org
 .pk.com
 ||placemix.com
 !--.planetsuzy.org
+||play-asia.com
 |http://pictures.playboy.com
 ||playboy.com
 .playboyplus.com
@@ -6204,6 +6208,7 @@ pobieramy.top
 .pornsharing.com
 |http://pornsharing.com
 .pornsocket.com
+||pornstarbyface.com
 .pornstarclub.com
 ||pornstarclub.com
 .porntube.com
@@ -6855,6 +6860,7 @@ sokamonline.com
 ||nakedsecurity.sophos.com
 .sorazone.net
 ||sos.org
+||sosad.fun
 bbs.sou-tong.org
 .soubory.com
 |http://soubory.com
@@ -7914,6 +7920,7 @@ vpnjack.com
 vraiesagesse.net
 ||vrchat.com
 .vrmtr.com
+||vrporn.com
 ||vtunnel.com
 ||vuku.cc
 
@@ -8160,8 +8167,7 @@ wzyboy.im/post/160
 ||x-berry.com
 ||x-art.com
 ||x-wall.org
-x1949x.com
-x365x.com
+||x3guide.com
 xanga.com
 ||xbabe.com
 .xbookcn.com
