@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KPdaTZPE6vnGkfFcjWUoNw
+! Checksum: OxJVBbnqDS5V3iwpU2nUUg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 12:14:31 -0500
+! Last Modified: Mon, 20 Jan 2025 12:25:06 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2741,6 +2741,7 @@ caochangqing.com
 ||caochangqing.com
 .cap.org.hk
 ||cap.org.hk
+||caoporn.us
 .carabinasypistolas.com
 cardinalkungfoundation.org
 ||posts.careerengine.us
@@ -5156,6 +5157,7 @@ killwall.com
 .ksdl.org
 .ksnews.com.tw
 ||ktzhk.com
+||kuaichedao.co
 .kui.name/event
 ||kukuku.uk
 kun.im
@@ -6230,6 +6232,7 @@ postadult.com
 ||powercx.com
 .powerphoto.org
 ||www.powerpointninja.com
+||ppy.sh
 ||presidentlee.tw
 ||cdn.printfriendly.com
 .pritunl.com
