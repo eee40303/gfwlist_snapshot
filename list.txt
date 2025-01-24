@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 4Z46N8d+kr1KBf0CxZ31Mg
+! Checksum: ybndNzjowWbltuJ63kzQ8g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 23 Jan 2025 23:52:28 -0500
+! Last Modified: Fri, 24 Jan 2025 00:09:23 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -167,6 +167,7 @@ share.dmhy.org
 ||moonbingo.com
 ||mos.ru
 ||msha.gov
+||www.msn.com
 ||muzu.tv
 ||mvg.jp
 .mybet.com
@@ -2293,6 +2294,7 @@ video.ap.org
 ||apkpure.com
 ||apkpure.net
 .aplusvpn.com
+||appadvice.com
 !--||appannie.com
 ||appbrain.com
 .appdownloader.net/Android
@@ -3429,6 +3431,7 @@ e-info.org.tw
 .earthcam.com
 .earthvpn.com
 ||earthvpn.com
+||eastasiaforum.org
 eastern-ark.com
 .easternlightning.org
 .eastturkestan.com
@@ -5564,6 +5567,7 @@ mixpod.com
 ||mixx.com
 ||mizzmona.com
 .mk5000.com
+||mlc.ai
 .mlcool.com
 ||mlzs.work
 .mm-cg.com
@@ -5620,7 +5624,6 @@ mponline.hk
 |http://mqxd.org
 mrtweet.com
 ||mrtweet.com
-news.hk.msn.com
 news.msn.com.tw
 msguancha.com
 .mswe1.org
@@ -6977,6 +6980,7 @@ sthoo.com
 .stickam.com
 stickeraction.com/sesawe
 .stileproject.com
+||stitcher.com
 .sto.cc
 .stoporganharvesting.org
 ||storagenewsletter.com
@@ -7739,6 +7743,7 @@ unpo.org
 ||unstable.icu
 .untraceable.us
 |http://untraceable.us
+||unwire.hk
 ||uocn.org
 tor.updatestar.com
 ||upghsbc.com
@@ -7987,15 +7992,15 @@ www.wangruowang.org
 wapedia.mobi/zhsimp
 ||warroom.org
 ||waselpro.com
-.watchinese.com
+||watchinese.com
 ||watchout.tw
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
-washeng.net
 .watch8x.com
 ||watchmygf.net
 ||wav.tv
+||waybig.com
 ||wd.bible
 .wdf5.com
 ||wealth.com.tw
