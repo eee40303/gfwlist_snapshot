@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: KQ85q2PUY3cLxhhjqGJlSg
+! Checksum: 4Z46N8d+kr1KBf0CxZ31Mg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 23 Jan 2025 23:24:02 -0500
+! Last Modified: Thu, 23 Jan 2025 23:52:28 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -299,6 +299,7 @@ share.dmhy.org
 !-||cdn-images.mailchimp.com
 ||abebooks.com
 |https://*.s3.amazonaws.com
+||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 
 ||43110.cf
@@ -1624,6 +1625,7 @@ cn.nytstyle.com
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
+||legra.ph
 ||quiz.directory
 ||t.me
 ||updates.tdesktop.com
@@ -4914,6 +4916,7 @@ chinese.irib.ir
 .ironsocket.com
 ||ironsocket.com
 .is.gd
+||ishr.ch
 .islahhaber.net
 .islam.org.hk
 |http://islam.org.hk
@@ -4991,6 +4994,7 @@ jamaat.org
 ||javakiba.org
 .javbus.com
 ||javbus.com
+||javfinder.ai
 ||javfor.me
 .javhd.com
 .javhip.com
@@ -5191,6 +5195,7 @@ kyohk.net
 ||kyoyue.com
 .kyzyhello.com
 ||kyzyhello.com
+||kzaobao.com
 .kzeng.info
 ||kzeng.info
 
@@ -6459,6 +6464,7 @@ redtube.com
 referer.us
 ||referer.us
 ||reflectivecode.com
+||blog.reimu.net
 relaxbbs.com
 .relay.com.tw
 .releaseinternational.org
@@ -7514,12 +7520,11 @@ tuitwit.com
 .tv.com
 |http://tv.com
 tvants.com
-forum.tvb.com
-news.tvb.com/list/world
-news.tvb.com/local
+||forum.tvb.com
+||inews-api.tvb.com
 news.tvbs.com.tw
 .tvboxnow.com
-|http://tvboxnow.com/
+||tvboxnow.com
 tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
