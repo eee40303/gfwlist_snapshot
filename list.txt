@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: V13cLK+7WfT1GhgMhqoqOA
+! Checksum: F3BLVa6RHxByWaHACX29cg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 02 Mar 2025 22:55:13 +0800
+! Last Modified: Mon, 03 Mar 2025 19:41:14 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
+||wunderground.com
 ||500px.com
 ||500px.org
 !--ehentai
@@ -338,7 +339,7 @@ share.dmhy.org
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||feedly.com
+||feedly.comfastgpt.run
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -1451,37 +1452,12 @@ zh.uncyclopedia.wikia.com
 ||wmfusercontent.org
 
 !!---Yahoo---
-||data.flurry.com
-||page.bid.yahoo.com
-||tw.bid.yahoo.com
 ||auctions.yahoo.co.jp
 ||blogs.yahoo.co.jp
 ||search.yahoo.co.jp
-||buy.yahoo.com.tw
-||hk.yahoo.com
-||hk.knowledge.yahoo.com
-||tw.money.yahoo.com
-||hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
-||hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
-meme.yahoo.com
-!--tw.yahoo.com
-tw.answers.yahoo.com
-|https://tw.answers.yahoo.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-||tw.yahoo.com
-||tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-||tw.news.yahoo.com
-pulse.yahoo.com
-||search.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
+||yahoo.com.tw
 ||yahoo.com.hk
+||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
@@ -1632,6 +1608,8 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||annas-archive.org
+||av01.tv
 ||acg.rip
 ||annas-archive.se
 .tibet.a.se
@@ -2263,6 +2241,7 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||colacloud.net
 ||ci-en.jp
 ||c-span.org
 .c-spanvideo.org
@@ -3107,11 +3086,8 @@ etaiwannews.com
 ||etizer.org
 ||etokki.com
 ||etsy.com
-!--.ettoday.net
-.ettoday.net/news/20151216/614081
+||*.ettoday.net
 etvonline.hk
-.eu.org
-||eu.org
 .eucasino.com
 .eulam.com
 .eurekavpt.com
@@ -3146,6 +3122,8 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||fastgpt.run
+||froth.zone
 ||fanbox.cc
 ||free.bg
 ||f-droid.org
@@ -3483,6 +3461,8 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+||go-to-zlibrary.se
+||gitbook.io
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
@@ -3987,6 +3967,8 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||haiwaikan.com
+||home.saxo
 ||hoy.tv
 .h528.com
 .h5dm.com
@@ -4537,6 +4519,8 @@ ithelp.ithome.com.tw
 .izlesem.org
 
 !--------------------JJ-------------------------
+||javdb.com
+||jifangge.com
 ||j.mp
 ||jable.tv
 ||blog.jackjia.com
@@ -4762,6 +4746,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||linktr.ee
 la-forum.org
 ladbrokes.com
 ||labiennale.org
@@ -4946,6 +4931,9 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||missav.com
+||madou.club
+||mahjongsoul.com
 ||mangabz.com
 http://*.m-team.cc
 !--m-team.cc/forum
@@ -5840,7 +5828,6 @@ provpnaccounts.com
 proxyanonimo.es
 .proxynetwork.org.uk
 ||proxynetwork.org.uk
-||pts.org.tw
 .pttvan.org
 ||pubu.com.tw
 ||puffinbrowser.com
@@ -6135,6 +6122,10 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sydney.bing.com
+||sehuatang.org
+||singlelogin.se
+||suno.ai
 ||syosetu.com
 .s1s1s1.com
 ||s-cute.com
@@ -6633,6 +6624,8 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||thetatoken.org
+||typeset.io
 ||thechasernews.co.uk
 ||hole.thu.monster
 ||thuhole.com
@@ -7375,6 +7368,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||vern.cc
 ||v2fly.org
 .v2ray.com
 ||v2ray.com
@@ -7534,8 +7528,8 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+||wikiless.funami.tech
 lists.w3.org/archives/public
-||w3schools.com
 ||waffle1999.com
 .wahas.com
 .waigaobu.com
