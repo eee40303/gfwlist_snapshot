@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: F3BLVa6RHxByWaHACX29cg
+! Checksum: RERRSPwyZGPESzZbArbxpg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 03 Mar 2025 19:41:14 +0800
+! Last Modified: Mon, 03 Mar 2025 20:30:23 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -16,6 +16,9 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
+||ptwxz.com
+||miuipolska.pl
+||piaotia.com
 ||wunderground.com
 ||500px.com
 ||500px.org
@@ -325,7 +328,6 @@ share.dmhy.org
 ||boomssr.com
 ||bwgyhw.com
 ||castbox.fm
-||chinatimes.com
 ||clyp.it
 ||cmcn.org
 ||cmx.im
@@ -903,6 +905,7 @@ cdninstagram.com
 @@|https://www.ampproject.org
 @@|https://cdn.ampproject.org
 ||android.com
+@@||ci.android.com
 ||androidify.com
 ||androidtv.com
 ||api.ai
@@ -1407,7 +1410,7 @@ zh.uncyclopedia.wikia.com
 !-------------Wikipedia Related-------------
 !!Emergency need only(IP/Port block usage)!!
 !------0------
-!--||mediawiki.org
+||mediawiki.org
 !------1------
 ||wikidata.org
 !------2------
@@ -1417,13 +1420,11 @@ zh.uncyclopedia.wikia.com
 !------4------
 ||wikiversity.org
 !------5------
-!--||wikisource.org
-|http://zh.wikisource.org
+||wikisource.org
 !------6------
 ||zh.wikiquote.org
 !------7------
-!--||wikinews.org
-||zh.wikinews.org
+wikinews.org
 !------8------
 ||wikivoyage.org
 !--|http://zh.wikivoyage.org
@@ -1461,6 +1462,7 @@ zh.uncyclopedia.wikia.com
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
+||18comic.org
 ||000webhost.com
 .030buy.com
 .0rz.tw
@@ -2241,6 +2243,8 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||clipconverter.cc
+||zh-hans.cfsh99.com
 ||colacloud.net
 ||ci-en.jp
 ||c-span.org
@@ -2698,6 +2702,7 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||cloud.dify.ai
 .d-fukyu.com
 |http://d-fukyu.com
 cl.d0z.net
@@ -2945,6 +2950,7 @@ xys.dxiong.com
 .dzze.com
 
 !--------------------EE-------------------------
+||elconfidencial.com
 ||e-classical.com.tw
 ||e-gold.com
 .e-gold.com
@@ -3122,6 +3128,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||free.com.tw
 ||fastgpt.run
 ||froth.zone
 ||fanbox.cc
@@ -3603,7 +3610,6 @@ gigporno.ru
 .github.io
 ||github.io
 ||githubusercontent.com
-||githubassets.com
 
 .gizlen.net
 ||gizlen.net
@@ -4283,6 +4289,8 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||illawarramercury.com.au
+||imago-images.com
 ||i1.hk
 ||i2p2.de
 ||i2runner.com
@@ -4746,6 +4754,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||www.lorenzetti.com.br
 ||linktr.ee
 la-forum.org
 ladbrokes.com
@@ -4931,6 +4940,10 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mywife.cc
+||c.mi.com
+||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
+||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||missav.com
 ||madou.club
 ||mahjongsoul.com
@@ -6122,6 +6135,8 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||slides.com
+||suno.com
 ||sydney.bing.com
 ||sehuatang.org
 ||singlelogin.se
@@ -6624,6 +6639,8 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||tomp3.cc
+||tukaani.org
 ||thetatoken.org
 ||typeset.io
 ||thechasernews.co.uk
@@ -7247,6 +7264,7 @@ twurl.nl
 ||typora.io
 
 !--------------------UU-------------------------
+||demo.unlock-music.dev
 .u9un.com
 ||u9un.com
 .ubddns.org
@@ -7971,8 +7989,6 @@ zacebook.com
 .zalmos.com
 ||zalmos.com
 ||zannel.com
-.zaobao.com
-||zaobao.com
 ||zaobao.com.sg
 .zaozon.com
 ||zdnet.com.tw
