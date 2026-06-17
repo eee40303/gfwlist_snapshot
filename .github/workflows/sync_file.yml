@@ -1,0 +1,83 @@
+name: Sync rule.txt File from Remote Repo
+
+on:
+  schedule:
+    # 每天凌晨 0:00 (UTC) 自动运行一次。你可以根据 Cron 表达式修改频率
+    - cron: '20 03 * * *'
+  workflow_dispatch: # 允许你在 GitHub 页面上手动点击按钮触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 检出你自己的本地仓库
+      - name: Checkout local repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      # 2. 从目标远程仓库单独下载（fetch）指定文件
+      # 这种方法无需克隆整个远程仓库，通过 cURL 直接拉取单文件，效率最高
+      - name: Fetch remote file and check for changes
+        id: fetch_file
+        run: |
+          # 定义变量（根据实际情况修改）
+          REMOTE_URL="https://raw.githubusercontent.com/gfwlist/gfwlist/master/list.txt"
+          TARGET_LOCAL_PATH="list.txt"
+          
+          # 创建本地目录（如果不存在）
+          mkdir -p $(dirname "$TARGET_LOCAL_PATH")
+          
+          # 下载最新的远程文件到临时位置
+          curl -sSL "$REMOTE_URL" -o temp_remote_file.txt
+          
+          # 检查本地是否存在旧文件，并比对 MD5 校验和
+          if [ -f "$TARGET_LOCAL_PATH" ] && cmp -s "$TARGET_LOCAL_PATH" "temp_remote_file.txt"; then
+            echo "文件未发生变化，无需更新。"
+            echo "changed=false" >> $GITHUB_OUTPUT
+            rm temp_remote_file.txt
+          else
+            echo "检测到文件变更，正在覆盖本地..."
+            mv temp_remote_file.txt "$TARGET_LOCAL_PATH"
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      # 3. 如果文件有变动，获取远程该文件的最后一次 Commit Message
+      # 注意：此步骤通过 GitHub API 获取，避免了下载整个远程仓库的历史
+      - name: Get Remote Commit Message
+        if: steps.fetch_file.outputs.changed == 'true'
+        id: get_msg
+        run: |
+          # 使用 GitHub API 获取该文件在远程的最新一次提交信息
+          # 如果是私有仓库，需在 curl 中加入认证头：-H "Authorization: token ${{ secrets.REMOTE_REPO_TOKEN }}"
+          API_URL="https://api.github.com/repos/gfwlist/gfwlist/commits?path=list.txt&per_page=1"
+          
+          REMOTE_MSG=$(curl -sSL "$API_URL" | jq -r '.[0].commit.message' | head -n 1)
+          
+          # 如果 API 请求失败或为空，给定默认值
+          if [ "$REMOTE_MSG" = "null" ] || [ -z "$REMOTE_MSG" ]; then
+            REMOTE_MSG="Remote file updated."
+          fi
+          
+          # 将消息安全地写入环境变量，防止多行文本截断
+          echo "msg=$REMOTE_MSG" >> $GITHUB_OUTPUT
+
+      # 4. 自动提交并推送到本仓库
+      - name: Commit and push changes
+        if: steps.fetch_file.outputs.changed == 'true'
+        run: |
+          # 配置 GitHub Actions 机器人身份
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add list.txt
+          
+          # 构建 Commit Message，包含远程的原始 Message
+          git commit -m "Sync list.txt from remote
+
+          --- Remote Message ---
+          ${{ steps.get_msg.outputs.msg }}"
+          
+          # 推送回你自己的仓库
+          git push
