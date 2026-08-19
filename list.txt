@@ -316,6 +316,7 @@
 ||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||s3.dualstack.us-west-2.amazonaws.com
 ||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
@@ -3077,6 +3078,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||oldmapsonline.org
 ||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
@@ -4145,6 +4147,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||windy.com
 ||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
