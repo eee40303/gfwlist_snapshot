@@ -2220,6 +2220,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||getmonero.org
 ||gate.com
 ||guangming.com.my
 ||g.ai
@@ -3046,6 +3047,7 @@ iipdigital.usembassy.gov
 ||co.ng.mil
 ||nga.mil
 ||nhentai.net
+||nicoseiga.jp
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
